@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<div id="outer" class="ui segments">
+    <div id="inner1" class="ui segments">
+        NODE A
+        <div class="ui segment">un</div>
+        <div class="ui segment">deux</div>
+        <div class="ui segment">trois</div>
+    </div>
+    <div id="inner2" class="ui segments">
+        <p>NODE B</p>
+        <div class="ui segment">un</div>
+        <div class="ui segment">deux</div>
+        <div class="ui segment">trois</div>
+    </div>
+</div>
+
+<!--<div id="items2">-->
+<!--    <div>un</div>-->
+<!--    <div>deux</div>-->
+<!--    <div>trois</div>-->
+<!--</div>-->
+
+
+<script type="text/javascript" src="../libs/jquery-3.5.1.min.js"></script>
+<script type="text/javascript" src="../libs/Semantic-UI-CSS/semantic.min.js"></script>
+<link rel="stylesheet" type="text/css" href="../libs/Semantic-UI-CSS/semantic.min.css" data-noprefix>
+<script type="text/javascript">
+    $('.ui.dropdown')
+        .dropdown()
+    ;
+</script>
+
+<script src="../libs/Sortable.min.js"></script>
+<script>
+    let sel = document.querySelector("#outer")
+
+    let sortable = new Sortable(sel, {
+        animation: 150,
+        ghostClass: 'blue-background-class'
+    });
+
+    let sel2 = document.querySelector("#inner2")
+    let sortable2 = new Sortable(sel2, {
+        animation: 150,
+        ghostClass: 'blue-background-class'
+    });
+
+
+</script>
+
+</body>
+</html>

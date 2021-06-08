@@ -1,0 +1,545 @@
+strict graph  {
+rankdir=LR;
+splines=false;
+a1 [date="4-2-1656", date_year=1656, nodeType=MARRIAGE_ACT, x="8.729187811448355", y="-384.19400353791707"];
+a3 [date="28-2-1656", date_year=1656, nodeType=MARRIAGE_ACT, x="40.764930501409935", y="1145.752951362097"];
+a18 [date="12-2-1657", date_year=1657, nodeType=MARRIAGE_ACT, x="1493.6542506288129", y="182.68998662395956"];
+a41 [date="28-7-1658", date_year=1658, nodeType=MARRIAGE_ACT, x="1436.07612774877", y="681.4868286071019"];
+a59 [date="20-4-1659", date_year=1659, nodeType=MARRIAGE_ACT, x="447.91173622325135", y="-558.3010754500526"];
+a82 [date="20-1-1660", date_year=1660, nodeType=MARRIAGE_ACT, x="144.4806329781144", y="-503.7092188172205"];
+a118 [date="17-8-1661", date_year=1661, nodeType=MARRIAGE_ACT, x="1452.633604777442", y="533.201124823569"];
+a130 [date="14-2-1662", date_year=1662, nodeType=MARRIAGE_ACT, x="-417.12688722325413", y="459.8295726760541"];
+a139 [date="6-8-1662", date_year=1662, nodeType=MARRIAGE_ACT, x="-344.06276587483546", y="743.4803355600712"];
+a145 [date="9-4-1663", date_year=1663, nodeType=MARRIAGE_ACT, x="1240.0003786500051", y="997.3766929633542"];
+a146 [date="9-4-1663", date_year=1663, nodeType=MARRIAGE_ACT, x="1255.4138953149081", y="-295.7533455268216"];
+a208 [date="13-12-1665", date_year=1665, nodeType=MARRIAGE_ACT, x="1099.2505480363436", y="-337.4480446367969"];
+a211 [date="7-1-1666", date_year=1666, nodeType=MARRIAGE_ACT, x="721.321539200791", y="-502.6748220998593"];
+a221 [date="23-9-1666", date_year=1666, nodeType=MARRIAGE_ACT, x="-399.27938906773875", y="10.391302163763783"];
+a224 [date="14-3-1667", date_year=1667, nodeType=MARRIAGE_ACT, x="728.4549047062787", y="1265.9347801195881"];
+a247 [date="4-10-1668", date_year=1668, nodeType=MARRIAGE_ACT, x="1357.0539213226884", y="70.56292458430082"];
+a256 [date="1-7-1669", date_year=1669, nodeType=MARRIAGE_ACT, x="607.7084370609813", y="-475.14169575900894"];
+a267 [date="25-2-1670", date_year=1670, nodeType=MARRIAGE_ACT, x="284.03504151527454", y="-493.14371402767085"];
+a291 [date="13-7-1671", date_year=1671, nodeType=MARRIAGE_ACT, x="-193.7918273698716", y="853.1983347813061"];
+a319 [date="20-9-1673", date_year=1673, nodeType=MARRIAGE_ACT, x="-364.70256005581837", y="15.049005256440694"];
+a348 [date="20-12-1674", date_year=1674, nodeType=MARRIAGE_ACT, x="1284.676334279076", y="-4.670392904135099"];
+a356 [date="25-2-1675", date_year=1675, nodeType=MARRIAGE_ACT, x="-163.63324477548497", y="-314.1657045011583"];
+a357 [date="25-2-1675", date_year=1675, nodeType=MARRIAGE_ACT, x="330.1761161172348", y="1165.5703211988796"];
+a358 [date="26-2-1675", date_year=1675, nodeType=MARRIAGE_ACT, x="542.5914964003208", y="-506.7750108198903"];
+a379 [date="19-4-1676", date_year=1676, nodeType=MARRIAGE_ACT, x="-327.14583813903334", y="443.38513043525575"];
+a384 [date="17-8-1676", date_year=1676, nodeType=MARRIAGE_ACT, x="701.3536548246792", y="1292.2234005297146"];
+a401 [date="22-4-1677", date_year=1677, nodeType=MARRIAGE_ACT, x="821.8018575841083", y="1263.3964842102307"];
+a404 [date="30-5-1677", date_year=1677, nodeType=MARRIAGE_ACT, x="1237.962485234759", y="1143.4367287603604"];
+a426 [date="28-12-1677", date_year=1677, nodeType=MARRIAGE_ACT, x="-156.11326155652978", y="1048.9333909454572"];
+a431 [date="14-3-1678", date_year=1678, nodeType=MARRIAGE_ACT, x="1009.3355700752504", y="-473.20284375214226"];
+a3 -- a118  [style=invis, weight=1];
+a18 -- a291  [style=invis, weight=1];
+a18 -- a247  [style=invis, weight=1];
+a18 -- a41  [style=invis, weight=2];
+a41 -- a291  [style=invis, weight=1];
+a41 -- a247  [style=invis, weight=1];
+a59 -- a208  [style=invis, weight=1];
+a59 -- a118  [style=invis, weight=1];
+a59 -- a211  [style=invis, weight=1];
+a59 -- a319  [style=invis, weight=1];
+a59 -- a224  [style=invis, weight=1];
+a59 -- a130  [style=invis, weight=1];
+a59 -- a404  [style=invis, weight=1];
+a59 -- a431  [style=invis, weight=2];
+a59 -- a139  [style=invis, weight=1];
+a59 -- a146  [style=invis, weight=1];
+a59 -- a82  [style=invis, weight=1];
+a59 -- a145  [style=invis, weight=1];
+a59 -- a426  [style=invis, weight=1];
+a82 -- a384  [style=invis, weight=1];
+a118 -- a208  [style=invis, weight=1];
+a118 -- a211  [style=invis, weight=1];
+a118 -- a319  [style=invis, weight=1];
+a118 -- a224  [style=invis, weight=1];
+a118 -- a130  [style=invis, weight=1];
+a118 -- a404  [style=invis, weight=1];
+a118 -- a431  [style=invis, weight=1];
+a118 -- a139  [style=invis, weight=1];
+a118 -- a146  [style=invis, weight=1];
+a118 -- a145  [style=invis, weight=1];
+a118 -- a426  [style=invis, weight=1];
+a130 -- a208  [style=invis, weight=1];
+a130 -- a211  [style=invis, weight=1];
+a130 -- a319  [style=invis, weight=1];
+a130 -- a224  [style=invis, weight=1];
+a130 -- a404  [style=invis, weight=1];
+a130 -- a431  [style=invis, weight=1];
+a130 -- a139  [style=invis, weight=1];
+a130 -- a146  [style=invis, weight=1];
+a130 -- a145  [style=invis, weight=1];
+a130 -- a426  [style=invis, weight=1];
+a139 -- a208  [style=invis, weight=1];
+a139 -- a211  [style=invis, weight=1];
+a139 -- a319  [style=invis, weight=1];
+a139 -- a224  [style=invis, weight=1];
+a139 -- a404  [style=invis, weight=1];
+a139 -- a431  [style=invis, weight=1];
+a139 -- a146  [style=invis, weight=1];
+a139 -- a145  [style=invis, weight=1];
+a139 -- a426  [style=invis, weight=1];
+a145 -- a208  [style=invis, weight=1];
+a145 -- a211  [style=invis, weight=1];
+a145 -- a319  [style=invis, weight=1];
+a145 -- a224  [style=invis, weight=1];
+a145 -- a404  [style=invis, weight=1];
+a145 -- a431  [style=invis, weight=1];
+a145 -- a146  [style=invis, weight=1];
+a145 -- a426  [style=invis, weight=1];
+a146 -- a208  [style=invis, weight=1];
+a146 -- a211  [style=invis, weight=1];
+a146 -- a319  [style=invis, weight=1];
+a146 -- a224  [style=invis, weight=1];
+a146 -- a404  [style=invis, weight=1];
+a146 -- a431  [style=invis, weight=1];
+a146 -- a426  [style=invis, weight=1];
+a208 -- a211  [style=invis, weight=1];
+a208 -- a319  [style=invis, weight=1];
+a208 -- a224  [style=invis, weight=1];
+a208 -- a404  [style=invis, weight=1];
+a208 -- a431  [style=invis, weight=1];
+a208 -- a426  [style=invis, weight=1];
+a211 -- a319  [style=invis, weight=1];
+a211 -- a224  [style=invis, weight=1];
+a211 -- a404  [style=invis, weight=1];
+a211 -- a431  [style=invis, weight=1];
+a211 -- a426  [style=invis, weight=1];
+a221 -- a256  [style=invis, weight=1];
+a224 -- a319  [style=invis, weight=1];
+a224 -- a404  [style=invis, weight=1];
+a224 -- a431  [style=invis, weight=1];
+a224 -- a426  [style=invis, weight=1];
+a247 -- a348  [style=invis, weight=2];
+a247 -- a401  [style=invis, weight=1];
+a247 -- a426  [style=invis, weight=1];
+a247 -- a384  [style=invis, weight=1];
+a247 -- a291  [style=invis, weight=1];
+a319 -- a404  [style=invis, weight=1];
+a319 -- a431  [style=invis, weight=1];
+a319 -- a426  [style=invis, weight=1];
+a348 -- a426  [style=invis, weight=1];
+a348 -- a384  [style=invis, weight=1];
+a356 -- a357  [style=invis, weight=1];
+a358 -- a404  [style=invis, weight=1];
+a384 -- a426  [style=invis, weight=1];
+a404 -- a431  [style=invis, weight=1];
+a404 -- a426  [style=invis, weight=1];
+a426 -- a431  [style=invis, weight=1];
+823;
+a3 -- 823  [dir=none];
+824;
+a3 -- 824  [dir=none];
+825;
+a3 -- 825  [dir=none];
+826;
+a3 -- 826  [dir=none];
+827;
+a3 -- 827  [dir=none];
+1;
+a1 -- 1  [dir=none];
+2;
+a1 -- 2  [dir=none];
+4;
+a1 -- 4  [dir=none];
+5;
+a1 -- 5  [dir=none];
+6;
+a1 -- 6  [dir=none];
+subgraph  {
+rank=same;
+a3;
+a1;
+}
+
+828;
+a18 -- 828  [dir=none];
+829;
+a18 -- 829  [dir=none];
+830;
+a18 -- 830  [dir=none];
+831;
+a18 -- 831  [dir=none];
+832;
+a18 -- 832  [dir=none];
+subgraph  {
+rank=same;
+a18;
+}
+
+833;
+a41 -- 833  [dir=none];
+834;
+a41 -- 834  [dir=none];
+831;
+a41 -- 831  [dir=none];
+830;
+a41 -- 830  [dir=none];
+subgraph  {
+rank=same;
+a41;
+}
+
+835;
+a59 -- 835  [dir=none];
+836;
+a59 -- 836  [dir=none];
+837;
+a59 -- 837  [dir=none];
+838;
+a59 -- 838  [dir=none];
+subgraph  {
+rank=same;
+a59;
+}
+
+839;
+a82 -- 839  [dir=none];
+840;
+a82 -- 840  [dir=none];
+838;
+a82 -- 838  [dir=none];
+841;
+a82 -- 841  [dir=none];
+842;
+a82 -- 842  [dir=none];
+subgraph  {
+rank=same;
+a82;
+}
+
+843;
+a118 -- 843  [dir=none];
+844;
+a118 -- 844  [dir=none];
+835;
+a118 -- 835  [dir=none];
+845;
+a118 -- 845  [dir=none];
+827;
+a118 -- 827  [dir=none];
+subgraph  {
+rank=same;
+a118;
+}
+
+846;
+a130 -- 846  [dir=none];
+847;
+a130 -- 847  [dir=none];
+835;
+a130 -- 835  [dir=none];
+848;
+a130 -- 848  [dir=none];
+849;
+a130 -- 849  [dir=none];
+850;
+a139 -- 850  [dir=none];
+851;
+a139 -- 851  [dir=none];
+835;
+a139 -- 835  [dir=none];
+852;
+a139 -- 852  [dir=none];
+853;
+a139 -- 853  [dir=none];
+subgraph  {
+rank=same;
+a130;
+a139;
+}
+
+858;
+a146 -- 858  [dir=none];
+859;
+a146 -- 859  [dir=none];
+835;
+a146 -- 835  [dir=none];
+860;
+a146 -- 860  [dir=none];
+861;
+a146 -- 861  [dir=none];
+854;
+a145 -- 854  [dir=none];
+855;
+a145 -- 855  [dir=none];
+856;
+a145 -- 856  [dir=none];
+835;
+a145 -- 835  [dir=none];
+857;
+a145 -- 857  [dir=none];
+subgraph  {
+rank=same;
+a146;
+a145;
+}
+
+862;
+a208 -- 862  [dir=none];
+863;
+a208 -- 863  [dir=none];
+835;
+a208 -- 835  [dir=none];
+864;
+a208 -- 864  [dir=none];
+subgraph  {
+rank=same;
+a208;
+}
+
+617;
+a221 -- 617  [dir=none];
+618;
+a221 -- 618  [dir=none];
+619;
+a221 -- 619  [dir=none];
+620;
+a221 -- 620  [dir=none];
+621;
+a221 -- 621  [dir=none];
+865;
+a211 -- 865  [dir=none];
+866;
+a211 -- 866  [dir=none];
+835;
+a211 -- 835  [dir=none];
+867;
+a211 -- 867  [dir=none];
+868;
+a211 -- 868  [dir=none];
+subgraph  {
+rank=same;
+a221;
+a211;
+}
+
+429;
+a224 -- 429  [dir=none];
+869;
+a224 -- 869  [dir=none];
+835;
+a224 -- 835  [dir=none];
+870;
+a224 -- 870  [dir=none];
+subgraph  {
+rank=same;
+a224;
+}
+
+871;
+a247 -- 871  [dir=none];
+872;
+a247 -- 872  [dir=none];
+873;
+a247 -- 873  [dir=none];
+874;
+a247 -- 874  [dir=none];
+875;
+a247 -- 875  [dir=none];
+830;
+a247 -- 830  [dir=none];
+subgraph  {
+rank=same;
+a247;
+}
+
+876;
+a256 -- 876  [dir=none];
+877;
+a256 -- 877  [dir=none];
+620;
+a256 -- 620  [dir=none];
+878;
+a256 -- 878  [dir=none];
+subgraph  {
+rank=same;
+a256;
+}
+
+815;
+a267 -- 815  [dir=none];
+816;
+a267 -- 816  [dir=none];
+817;
+a267 -- 817  [dir=none];
+818;
+a267 -- 818  [dir=none];
+819;
+a267 -- 819  [dir=none];
+821;
+a267 -- 821  [dir=none];
+822;
+a267 -- 822  [dir=none];
+subgraph  {
+rank=same;
+a267;
+}
+
+879;
+a291 -- 879  [dir=none];
+880;
+a291 -- 880  [dir=none];
+830;
+a291 -- 830  [dir=none];
+881;
+a291 -- 881  [dir=none];
+882;
+a291 -- 882  [dir=none];
+subgraph  {
+rank=same;
+a291;
+}
+
+884;
+a319 -- 884  [dir=none];
+885;
+a319 -- 885  [dir=none];
+835;
+a319 -- 835  [dir=none];
+886;
+a319 -- 886  [dir=none];
+887;
+a319 -- 887  [dir=none];
+subgraph  {
+rank=same;
+a319;
+}
+
+888;
+a348 -- 888  [dir=none];
+889;
+a348 -- 889  [dir=none];
+875;
+a348 -- 875  [dir=none];
+874;
+a348 -- 874  [dir=none];
+890;
+a348 -- 890  [dir=none];
+subgraph  {
+rank=same;
+a348;
+}
+
+10024;
+a357 -- 10024  [dir=none];
+10025;
+a357 -- 10025  [dir=none];
+919;
+a357 -- 919  [dir=none];
+10022;
+a357 -- 10022  [dir=none];
+10026;
+a357 -- 10026  [dir=none];
+10019;
+a356 -- 10019  [dir=none];
+10020;
+a356 -- 10020  [dir=none];
+10021;
+a356 -- 10021  [dir=none];
+10022;
+a356 -- 10022  [dir=none];
+10027;
+a358 -- 10027  [dir=none];
+10028;
+a358 -- 10028  [dir=none];
+10029;
+a358 -- 10029  [dir=none];
+10030;
+a358 -- 10030  [dir=none];
+10031;
+a358 -- 10031  [dir=none];
+908;
+a358 -- 908  [dir=none];
+subgraph  {
+rank=same;
+a357;
+a356;
+a358;
+}
+
+896;
+a384 -- 896  [dir=none];
+897;
+a384 -- 897  [dir=none];
+841;
+a384 -- 841  [dir=none];
+898;
+a384 -- 898  [dir=none];
+899;
+a384 -- 899  [dir=none];
+875;
+a384 -- 875  [dir=none];
+891;
+a379 -- 891  [dir=none];
+892;
+a379 -- 892  [dir=none];
+893;
+a379 -- 893  [dir=none];
+894;
+a379 -- 894  [dir=none];
+895;
+a379 -- 895  [dir=none];
+subgraph  {
+rank=same;
+a384;
+a379;
+}
+
+875;
+a426 -- 875  [dir=none];
+909;
+a426 -- 909  [dir=none];
+835;
+a426 -- 835  [dir=none];
+910;
+a426 -- 910  [dir=none];
+911;
+a426 -- 911  [dir=none];
+905;
+a404 -- 905  [dir=none];
+906;
+a404 -- 906  [dir=none];
+835;
+a404 -- 835  [dir=none];
+907;
+a404 -- 907  [dir=none];
+908;
+a404 -- 908  [dir=none];
+900;
+a401 -- 900  [dir=none];
+901;
+a401 -- 901  [dir=none];
+902;
+a401 -- 902  [dir=none];
+903;
+a401 -- 903  [dir=none];
+904;
+a401 -- 904  [dir=none];
+873;
+a401 -- 873  [dir=none];
+subgraph  {
+rank=same;
+a426;
+a404;
+a401;
+}
+
+912;
+a431 -- 912  [dir=none];
+913;
+a431 -- 913  [dir=none];
+835;
+a431 -- 835  [dir=none];
+837;
+a431 -- 837  [dir=none];
+914;
+a431 -- 914  [dir=none];
+subgraph  {
+rank=same;
+a431;
+}
+
+}

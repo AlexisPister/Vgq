@@ -1,0 +1,52 @@
+{
+  "name": "visualqueries",
+  "version": "1.0.0",
+  "description": "Social network dynamic query system",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "cypress open",
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "update": "npm update git+ssh://git@gitlab.inria.fr/fekete/cypher-compiler-js.git; npm i git+ssh://git@gitlab.inria.fr/fekete/cypher-compiler-js.git"
+  },
+  "author": "Alexis Pister",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-lasso": "^1.0.0",
+    "codemirror": "^5.61.0",
+    "cypher-compiler-js": "git+ssh://git@gitlab.inria.fr/fekete/cypher-compiler-js.git",
+    "d3": "^6.7.0",
+    "d3-drag": "^2.0.0",
+    "d3-selection": "^2.0.0",
+    "datatables.net": "^1.10.24",
+    "datatables.net-buttons": "^1.7.0",
+    "datatables.net-buttons-dt": "^1.7.0",
+    "datatables.net-buttons-se": "^1.7.0",
+    "datatables.net-dt": "^1.10.24",
+    "datatables.net-jqui": "^1.10.24",
+    "datatables.net-se": "^1.10.24",
+    "es6-promise": "^4.2.8",
+    "flatted": "^3.1.1",
+    "fomantic-ui": "^2.8.7",
+    "jquery": "^3.6.0",
+    "jquery-ui": "^1.12.1",
+    "jquery-ui-bundle": "^1.12.1-migrate",
+    "jquery-ui-dist": "^1.12.1",
+    "jszip": "^3.6.0",
+    "lasso-canvas-image": "^1.4.2",
+    "leaflet": "^1.7.1",
+    "pdfmake": "^0.1.71",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "regenerator-runtime": "^0.13.7",
+    "sortablejs": "^1.13.0",
+    "stream": "^0.0.2",
+    "update": "^0.7.4",
+    "webcola": "^3.4.0"
+  },
+  "devDependencies": {
+    "@visdesignlab/trrack": "^2.0.0-alpha.10",
+    "@visdesignlab/trrack-vis": "^2.0.0-alpha.12",
+    "chance": "^1.1.7"
+  }
+}

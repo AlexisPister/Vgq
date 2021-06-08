@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <canvas height="100%" width="100%"></canvas>
+    <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=default"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/4.3.2/pixi.min.js"></script>
+    <script src="http://marvl.infotech.monash.edu/webcola/cola.min.js"></script>
+
+    <script>
+      var canvas = document.querySelector("canvas");
+          canvas.width = (window.innerWidth*4) || 960; // tuned for large force diagrams
+          canvas.height = (window.innerHeight*4) || 500;
+          canvas.width = 4000
+          canvas.height = 1200
+
+          var context = canvas.getContext("2d"),
+              width = canvas.width,
+              height = canvas.height;
+
+          d3.json("data/BA_unipartite_1600_1900.json", function(error, graph) {
+            if (error) throw error;
+
+            simulation
+                .nodes(graph.nodes)
+                .on("tick", ticked);
+
+            simulation.force("link")
+                .links(graph.links);
+
+            d3.select(canvas)
+                .call(d3.drag()
+                    .container(canvas)
+                    .subject(dragsubject)
+                    .on("start", dragstarted)
+                    .on("drag", dragged)
+                    .on("end", dragended));
+
+            function ticked() {
+              context.clearRect(0, 0, width, height);
+              context.beginPath();
+              graph.links.forEach(drawLink);
+
+              context.strokeStyle = "#aaa";
+              context.stroke();
+              context.beginPath();
+
+              graph.nodes.forEach(drawNode);
+              context.fill();
+              context.strokeStyle = "#fff";
+              context.stroke();
+            }
+
+            function dragsubject() {
+              return simulation.find(d3.event.x, d3.event.y);
+            }
+          });
+
+          function dragstarted() {
+            if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+            d3.event.subject.fx = d3.event.subject.x;
+            d3.event.subject.fy = d3.event.subject.y;
+          }
+
+          function dragged() {
+            d3.event.subject.fx = d3.event.x;
+            d3.event.subject.fy = d3.event.y;
+          }
+
+          function dragended() {
+            if (!d3.event.active) simulation.alphaTarget(0);
+            d3.event.subject.fx = null;
+            d3.event.subject.fy = null;
+          }
+
+          function drawLink(d) {
+            context.moveTo(d.source.x, d.source.y);
+            context.lineTo(d.target.x, d.target.y);
+          }
+
+          function drawNode(d) {
+            context.moveTo(d.x + 3, d.y);
+            context.arc(d.x, d.y, 3, 0, 2 * Math.PI);
+          }
+    </script>
+</body>
+</html>

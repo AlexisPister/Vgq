@@ -1,0 +1,1110 @@
+graph 1 72.213 73.278
+node 1 1.6916 43.667 0.75 0.5 1 solid ellipse black lightgrey
+node a1 0.39719 42.167 0.75 0.5 a1 solid ellipse black lightgrey
+node 2 1.6916 42.917 0.75 0.5 2 solid ellipse black lightgrey
+node 4 1.6916 42.167 0.75 0.5 4 solid ellipse black lightgrey
+node 5 1.6916 41.417 0.75 0.5 5 solid ellipse black lightgrey
+node 6 1.6916 40.667 0.75 0.5 6 solid ellipse black lightgrey
+node 823 1.6916 46.444 0.75 0.5 823 solid ellipse black lightgrey
+node a3 0.39719 45.694 0.75 0.5 a3 solid ellipse black lightgrey
+node 824 1.6916 45.694 0.75 0.5 824 solid ellipse black lightgrey
+node 825 1.6916 44.944 0.75 0.5 825 solid ellipse black lightgrey
+node 826 1.6916 47.194 0.75 0.5 826 solid ellipse black lightgrey
+node 827 8.1634 44.306 0.75 0.5 827 solid ellipse black lightgrey
+node 1656 0.39719 62.528 0.79437 0.5 1656 solid ellipse black lightgrey
+node 828 2.9859 59.458 0.75 0.5 828 solid ellipse black lightgrey
+node a18 1.6916 58.069 0.75 0.5 a18 solid ellipse black lightgrey
+node 829 2.9859 58.708 0.75 0.5 829 solid ellipse black lightgrey
+node 830 36.91 43.861 0.75 0.5 830 solid ellipse black lightgrey
+node 831 32.973 57.653 0.75 0.5 831 solid ellipse black lightgrey
+node 832 2.9859 55.625 0.75 0.5 832 solid ellipse black lightgrey
+node 1657 1.6916 62.528 0.79437 0.5 1657 solid ellipse black lightgrey
+node 833 4.2803 55.625 0.75 0.5 833 solid ellipse black lightgrey
+node a41 2.9859 56.375 0.75 0.5 a41 solid ellipse black lightgrey
+node 834 4.2803 56.375 0.75 0.5 834 solid ellipse black lightgrey
+node 1658 2.9859 62.528 0.79437 0.5 1658 solid ellipse black lightgrey
+node 835 40.902 16.917 0.75 0.5 835 solid ellipse black lightgrey
+node a59 4.2803 25.556 0.75 0.5 a59 solid ellipse black lightgrey
+node 836 5.5747 14.222 0.75 0.5 836 solid ellipse black lightgrey
+node 837 27.687 46.264 0.75 0.5 837 solid ellipse black lightgrey
+node 838 6.8691 34.403 0.75 0.5 838 solid ellipse black lightgrey
+node 1659 4.2803 62.528 0.79437 0.5 1659 solid ellipse black lightgrey
+node 839 6.8691 31.097 0.75 0.5 839 solid ellipse black lightgrey
+node a82 5.5747 31.847 0.75 0.5 a82 solid ellipse black lightgrey
+node 840 6.8691 30.347 0.75 0.5 840 solid ellipse black lightgrey
+node 841 59.137 25.514 0.75 0.5 841 solid ellipse black lightgrey
+node 842 6.8691 31.847 0.75 0.5 842 solid ellipse black lightgrey
+node 1660 5.5747 62.528 0.79437 0.5 1660 solid ellipse black lightgrey
+node 843 8.1634 33.653 0.75 0.5 843 solid ellipse black lightgrey
+node a118 6.8691 33.653 0.77632 0.5 a118 solid ellipse black lightgrey
+node 844 8.1634 35.153 0.75 0.5 844 solid ellipse black lightgrey
+node 845 8.1634 34.403 0.75 0.5 845 solid ellipse black lightgrey
+node 1661 6.8691 62.528 0.79437 0.5 1661 solid ellipse black lightgrey
+node 850 9.4578 7.6111 0.75 0.5 850 solid ellipse black lightgrey
+node a139 8.1634 7.6111 0.77632 0.5 a139 solid ellipse black lightgrey
+node 851 9.4578 6.8611 0.75 0.5 851 solid ellipse black lightgrey
+node 852 9.4578 6.1111 0.75 0.5 852 solid ellipse black lightgrey
+node 853 9.4578 8.3611 0.75 0.5 853 solid ellipse black lightgrey
+node 846 9.4578 27.972 0.75 0.5 846 solid ellipse black lightgrey
+node a130 8.1634 28.722 0.77632 0.5 a130 solid ellipse black lightgrey
+node 847 31.679 28.889 0.75 0.5 847 solid ellipse black lightgrey
+node 848 9.4578 29.472 0.75 0.5 848 solid ellipse black lightgrey
+node 849 9.4578 28.722 0.75 0.5 849 solid ellipse black lightgrey
+node 1662 8.1634 62.528 0.79437 0.5 1662 solid ellipse black lightgrey
+node 858 10.752 25.944 0.75 0.5 858 solid ellipse black lightgrey
+node a146 9.4578 25.194 0.77632 0.5 a146 solid ellipse black lightgrey
+node 859 10.752 25.194 0.75 0.5 859 solid ellipse black lightgrey
+node 860 10.752 24.444 0.75 0.5 860 solid ellipse black lightgrey
+node 861 10.752 26.694 0.75 0.5 861 solid ellipse black lightgrey
+node 854 10.752 6.4861 0.75 0.5 854 solid ellipse black lightgrey
+node a145 9.4578 5.3611 0.77632 0.5 a145 solid ellipse black lightgrey
+node 855 10.752 5.7361 0.75 0.5 855 solid ellipse black lightgrey
+node 856 10.752 4.9861 0.75 0.5 856 solid ellipse black lightgrey
+node 857 10.752 4.2361 0.75 0.5 857 solid ellipse black lightgrey
+node 1663 9.4578 62.528 0.79437 0.5 1663 solid ellipse black lightgrey
+node 862 12.047 21.667 0.75 0.5 862 solid ellipse black lightgrey
+node a208 10.752 22.042 0.77632 0.5 a208 solid ellipse black lightgrey
+node 863 12.047 23.167 0.75 0.5 863 solid ellipse black lightgrey
+node 864 12.047 22.417 0.75 0.5 864 solid ellipse black lightgrey
+node 1665 10.752 62.528 0.79437 0.5 1665 solid ellipse black lightgrey
+node 617 13.341 52.875 0.75 0.5 617 solid ellipse black lightgrey
+node a221 12.047 52.125 0.77632 0.5 a221 solid ellipse black lightgrey
+node 618 13.341 52.125 0.75 0.5 618 solid ellipse black lightgrey
+node 619 13.341 53.625 0.75 0.5 619 solid ellipse black lightgrey
+node 620 38.259 30.806 0.75 0.5 620 solid ellipse black lightgrey
+node 621 30.384 48.667 0.75 0.5 621 solid ellipse black lightgrey
+node 865 13.341 2.5 0.75 0.5 865 solid ellipse black lightgrey
+node a211 12.047 1.75 0.77632 0.5 a211 solid ellipse black lightgrey
+node 866 13.341 1.75 0.75 0.5 866 solid ellipse black lightgrey
+node 867 13.341 1 0.75 0.5 867 solid ellipse black lightgrey
+node 868 13.341 0.25 0.75 0.5 868 solid ellipse black lightgrey
+node 1666 12.047 62.528 0.79437 0.5 1666 solid ellipse black lightgrey
+node 429 70.359 39.528 0.75 0.5 429 solid ellipse black lightgrey
+node a224 13.341 31.75 0.77632 0.5 a224 solid ellipse black lightgrey
+node 869 14.635 32.333 0.75 0.5 869 solid ellipse black lightgrey
+node 870 31.679 32.417 0.75 0.5 870 solid ellipse black lightgrey
+node 1667 13.341 62.528 0.79437 0.5 1667 solid ellipse black lightgrey
+node 871 15.93 50.319 0.75 0.5 871 solid ellipse black lightgrey
+node a247 14.635 49.944 0.77632 0.5 a247 solid ellipse black lightgrey
+node 872 15.93 49.569 0.75 0.5 872 solid ellipse black lightgrey
+node 873 53.526 54.111 0.75 0.5 873 solid ellipse black lightgrey
+node 874 22.402 51 0.75 0.5 874 solid ellipse black lightgrey
+node 875 27.687 39.194 0.75 0.5 875 solid ellipse black lightgrey
+node 1668 14.635 62.528 0.79437 0.5 1668 solid ellipse black lightgrey
+node 876 17.224 28.944 0.75 0.5 876 solid ellipse black lightgrey
+node a256 15.93 28.569 0.77632 0.5 a256 solid ellipse black lightgrey
+node 877 17.224 28.194 0.75 0.5 877 solid ellipse black lightgrey
+node 878 17.224 27.444 0.75 0.5 878 solid ellipse black lightgrey
+node 1669 15.93 62.528 0.79437 0.5 1669 solid ellipse black lightgrey
+node 815 18.518 12.194 0.75 0.5 815 solid ellipse black lightgrey
+node a267 17.224 12.194 0.77632 0.5 a267 solid ellipse black lightgrey
+node 816 18.518 11.444 0.75 0.5 816 solid ellipse black lightgrey
+node 817 18.518 10.694 0.75 0.5 817 solid ellipse black lightgrey
+node 818 18.518 9.9444 0.75 0.5 818 solid ellipse black lightgrey
+node 819 36.91 11.764 0.75 0.5 819 solid ellipse black lightgrey
+node 821 18.518 14.222 0.75 0.5 821 solid ellipse black lightgrey
+node 822 18.518 12.944 0.75 0.5 822 solid ellipse black lightgrey
+node 1670 17.224 62.528 0.79437 0.5 1670 solid ellipse black lightgrey
+node 879 19.813 43.028 0.75 0.5 879 solid ellipse black lightgrey
+node a291 18.518 43.028 0.77632 0.5 a291 solid ellipse black lightgrey
+node 880 19.813 42.278 0.75 0.5 880 solid ellipse black lightgrey
+node 881 43.707 35.528 0.75 0.5 881 solid ellipse black lightgrey
+node 882 19.813 43.778 0.75 0.5 882 solid ellipse black lightgrey
+node 1671 18.518 62.528 0.79437 0.5 1671 solid ellipse black lightgrey
+node 884 21.107 15.653 0.75 0.5 884 solid ellipse black lightgrey
+node a319 19.813 16.403 0.77632 0.5 a319 solid ellipse black lightgrey
+node 885 21.107 17.153 0.75 0.5 885 solid ellipse black lightgrey
+node 886 36.91 18.569 0.75 0.5 886 solid ellipse black lightgrey
+node 887 21.107 16.403 0.75 0.5 887 solid ellipse black lightgrey
+node 1673 19.813 62.528 0.79437 0.5 1673 solid ellipse black lightgrey
+node 888 59.137 57.458 0.75 0.5 888 solid ellipse black lightgrey
+node a348 21.107 52.278 0.77632 0.5 a348 solid ellipse black lightgrey
+node 889 42.305 46.333 0.75 0.5 889 solid ellipse black lightgrey
+node 890 22.402 52.278 0.75 0.5 890 solid ellipse black lightgrey
+node 1674 21.107 62.528 0.79437 0.5 1674 solid ellipse black lightgrey
+node 10027 23.75 7.3056 0.9027 0.5 10027 solid ellipse black lightgrey
+node a358 22.402 5.4306 0.77632 0.5 a358 solid ellipse black lightgrey
+node 10028 23.75 6.5556 0.9027 0.5 10028 solid ellipse black lightgrey
+node 10029 23.75 5.8056 0.9027 0.5 10029 solid ellipse black lightgrey
+node 10030 23.75 5.0556 0.9027 0.5 10030 solid ellipse black lightgrey
+node 10031 23.75 4.3056 0.9027 0.5 10031 solid ellipse black lightgrey
+node 908 26.393 6.5556 0.75 0.5 908 solid ellipse black lightgrey
+node 10024 23.75 21.139 0.9027 0.5 10024 solid ellipse black lightgrey
+node a357 22.402 21.139 0.77632 0.5 a357 solid ellipse black lightgrey
+node 10025 23.75 22.639 0.9027 0.5 10025 solid ellipse black lightgrey
+node 919 29.036 22.639 0.75 0.5 919 solid ellipse black lightgrey
+node 10022 23.75 17.528 0.9027 0.5 10022 solid ellipse black lightgrey
+node 10026 23.75 21.889 0.9027 0.5 10026 solid ellipse black lightgrey
+node 10019 23.75 16.028 0.9027 0.5 10019 solid ellipse black lightgrey
+node a356 22.402 16.403 0.77632 0.5 a356 solid ellipse black lightgrey
+node 10020 23.75 15.278 0.9027 0.5 10020 solid ellipse black lightgrey
+node 10021 23.75 16.778 0.9027 0.5 10021 solid ellipse black lightgrey
+node 1675 22.402 62.528 0.79437 0.5 1675 solid ellipse black lightgrey
+node 891 25.099 32.139 0.75 0.5 891 solid ellipse black lightgrey
+node a379 23.75 33.639 0.77632 0.5 a379 solid ellipse black lightgrey
+node 892 25.099 33.639 0.75 0.5 892 solid ellipse black lightgrey
+node 893 43.707 49.639 0.75 0.5 893 solid ellipse black lightgrey
+node 894 42.305 44.306 0.75 0.5 894 solid ellipse black lightgrey
+node 895 25.099 32.889 0.75 0.5 895 solid ellipse black lightgrey
+node 896 25.099 39.722 0.75 0.5 896 solid ellipse black lightgrey
+node a384 23.75 38.986 0.77632 0.5 a384 solid ellipse black lightgrey
+node 897 36.91 33.889 0.75 0.5 897 solid ellipse black lightgrey
+node 898 25.099 40.472 0.75 0.5 898 solid ellipse black lightgrey
+node 899 29.036 35.806 0.75 0.5 899 solid ellipse black lightgrey
+node 1676 23.75 62.528 0.79437 0.5 1676 solid ellipse black lightgrey
+node a426 25.099 25.722 0.77632 0.5 a426 solid ellipse black lightgrey
+node 909 26.393 25.722 0.75 0.5 909 solid ellipse black lightgrey
+node 910 26.393 24.972 0.75 0.5 910 solid ellipse black lightgrey
+node 911 26.393 26.472 0.75 0.5 911 solid ellipse black lightgrey
+node 900 26.393 45.361 0.75 0.5 900 solid ellipse black lightgrey
+node a401 25.099 44.986 0.77632 0.5 a401 solid ellipse black lightgrey
+node 901 26.393 44.611 0.75 0.5 901 solid ellipse black lightgrey
+node 902 26.393 43.861 0.75 0.5 902 solid ellipse black lightgrey
+node 903 29.036 43.861 0.75 0.5 903 solid ellipse black lightgrey
+node 904 26.393 46.111 0.75 0.5 904 solid ellipse black lightgrey
+node 905 26.393 4.3056 0.75 0.5 905 solid ellipse black lightgrey
+node a404 25.099 4.0417 0.77632 0.5 a404 solid ellipse black lightgrey
+node 906 26.393 5.8056 0.75 0.5 906 solid ellipse black lightgrey
+node 907 26.393 5.0556 0.75 0.5 907 solid ellipse black lightgrey
+node 1677 25.099 62.528 0.79437 0.5 1677 solid ellipse black lightgrey
+node 915 35.562 18.389 0.75 0.5 915 solid ellipse black lightgrey
+node a443 26.393 19.764 0.77632 0.5 a443 solid ellipse black lightgrey
+node 916 27.687 18.806 0.75 0.5 916 solid ellipse black lightgrey
+node 917 36.91 13.681 0.75 0.5 917 solid ellipse black lightgrey
+node 918 27.687 20.083 0.75 0.5 918 solid ellipse black lightgrey
+node 912 27.687 54.306 0.75 0.5 912 solid ellipse black lightgrey
+node a431 26.393 53.556 0.77632 0.5 a431 solid ellipse black lightgrey
+node 913 27.687 53.556 0.75 0.5 913 solid ellipse black lightgrey
+node 914 27.687 55.056 0.75 0.5 914 solid ellipse black lightgrey
+node 1678 26.393 62.528 0.79437 0.5 1678 solid ellipse black lightgrey
+node 923 29.036 32 0.75 0.5 923 solid ellipse black lightgrey
+node a496 27.687 30.5 0.77632 0.5 a496 solid ellipse black lightgrey
+node 924 34.268 23.5 0.75 0.5 924 solid ellipse black lightgrey
+node 925 29.036 31.25 0.75 0.5 925 solid ellipse black lightgrey
+node 926 29.036 30.5 0.75 0.5 926 solid ellipse black lightgrey
+node a481 27.687 20.833 0.77632 0.5 a481 solid ellipse black lightgrey
+node 920 29.036 21.889 0.75 0.5 920 solid ellipse black lightgrey
+node 921 50.721 35.361 0.75 0.5 921 solid ellipse black lightgrey
+node 922 29.036 20.611 0.75 0.5 922 solid ellipse black lightgrey
+node 10098 29.036 17.306 0.9027 0.5 10098 solid ellipse black lightgrey
+node a482 27.687 17.306 0.77632 0.5 a482 solid ellipse black lightgrey
+node 10099 29.036 16.556 0.9027 0.5 10099 solid ellipse black lightgrey
+node 10100 29.036 15.806 0.9027 0.5 10100 solid ellipse black lightgrey
+node 10101 29.036 18.056 0.9027 0.5 10101 solid ellipse black lightgrey
+node 927 29.036 45.139 0.75 0.5 927 solid ellipse black lightgrey
+node a501 27.687 47.014 0.77632 0.5 a501 solid ellipse black lightgrey
+node 28 64.748 56.194 0.75 0.5 28 solid ellipse black lightgrey
+node 928 29.036 47.389 0.75 0.5 928 solid ellipse black lightgrey
+node 929 29.036 46.639 0.75 0.5 929 solid ellipse black lightgrey
+node 1679 27.687 62.528 0.79437 0.5 1679 solid ellipse black lightgrey
+node 94 30.384 65.528 0.75 0.5 94 solid ellipse black lightgrey
+node a513 29.036 64.403 0.77632 0.5 a513 solid ellipse black lightgrey
+node 95 30.384 64.778 0.75 0.5 95 solid ellipse black lightgrey
+node 96 30.384 64.028 0.75 0.5 96 solid ellipse black lightgrey
+node 99 30.384 63.278 0.75 0.5 99 solid ellipse black lightgrey
+node 934 30.384 46.639 0.75 0.5 934 solid ellipse black lightgrey
+node a520 29.036 45.889 0.77632 0.5 a520 solid ellipse black lightgrey
+node 935 30.384 45.889 0.75 0.5 935 solid ellipse black lightgrey
+node 936 30.384 45.139 0.75 0.5 936 solid ellipse black lightgrey
+node 930 30.384 20.833 0.75 0.5 930 solid ellipse black lightgrey
+node a512 29.036 19.861 0.77632 0.5 a512 solid ellipse black lightgrey
+node 931 30.384 20.083 0.75 0.5 931 solid ellipse black lightgrey
+node 932 30.384 19.333 0.75 0.5 932 solid ellipse black lightgrey
+node 933 30.384 18.583 0.75 0.5 933 solid ellipse black lightgrey
+node 1680 29.036 62.528 0.79437 0.5 1680 solid ellipse black lightgrey
+node 948 31.679 7.8333 0.75 0.5 948 solid ellipse black lightgrey
+node a644 30.384 6.3333 0.77632 0.5 a644 solid ellipse black lightgrey
+node 949 31.679 6.3333 0.75 0.5 949 solid ellipse black lightgrey
+node 950 31.679 5.5833 0.75 0.5 950 solid ellipse black lightgrey
+node 951 31.679 4.8333 0.75 0.5 951 solid ellipse black lightgrey
+node 937 31.679 30.167 0.75 0.5 937 solid ellipse black lightgrey
+node a633 30.384 30.542 0.77632 0.5 a633 solid ellipse black lightgrey
+node 938 31.679 31.667 0.75 0.5 938 solid ellipse black lightgrey
+node 939 31.679 30.917 0.75 0.5 939 solid ellipse black lightgrey
+node 940 39.553 26.889 0.75 0.5 940 solid ellipse black lightgrey
+node 943 31.679 67.778 0.75 0.5 943 solid ellipse black lightgrey
+node a635 30.384 66.278 0.77632 0.5 a635 solid ellipse black lightgrey
+node 944 31.679 67.028 0.75 0.5 944 solid ellipse black lightgrey
+node 945 31.679 66.278 0.75 0.5 945 solid ellipse black lightgrey
+node 946 31.679 65.528 0.75 0.5 946 solid ellipse black lightgrey
+node 947 31.679 64.778 0.75 0.5 947 solid ellipse black lightgrey
+node 1683 30.384 62.528 0.79437 0.5 1683 solid ellipse black lightgrey
+node 957 32.973 11.667 0.75 0.5 957 solid ellipse black lightgrey
+node a674 31.679 11.292 0.77632 0.5 a674 solid ellipse black lightgrey
+node 958 32.973 10.917 0.75 0.5 958 solid ellipse black lightgrey
+node 959 32.973 10.167 0.75 0.5 959 solid ellipse black lightgrey
+node 960 32.973 9.4167 0.75 0.5 960 solid ellipse black lightgrey
+node 961 32.973 12.417 0.75 0.5 961 solid ellipse black lightgrey
+node 962 32.973 49.944 0.75 0.5 962 solid ellipse black lightgrey
+node a677 31.679 48.444 0.77632 0.5 a677 solid ellipse black lightgrey
+node 963 32.973 49.194 0.75 0.5 963 solid ellipse black lightgrey
+node 964 32.973 48.444 0.75 0.5 964 solid ellipse black lightgrey
+node 965 32.973 47.694 0.75 0.5 965 solid ellipse black lightgrey
+node 966 32.973 46.944 0.75 0.5 966 solid ellipse black lightgrey
+node 967 32.973 46.194 0.75 0.5 967 solid ellipse black lightgrey
+node 968 32.973 50.694 0.75 0.5 968 solid ellipse black lightgrey
+node 952 32.973 7.0833 0.75 0.5 952 solid ellipse black lightgrey
+node a649 31.679 7.0833 0.77632 0.5 a649 solid ellipse black lightgrey
+node 953 32.973 6.3333 0.75 0.5 953 solid ellipse black lightgrey
+node 954 32.973 5.5833 0.75 0.5 954 solid ellipse black lightgrey
+node 955 32.973 4.8333 0.75 0.5 955 solid ellipse black lightgrey
+node 1684 31.679 62.528 0.79437 0.5 1684 solid ellipse black lightgrey
+node 969 34.268 22.75 0.75 0.5 969 solid ellipse black lightgrey
+node a711 32.973 22 0.77632 0.5 a711 solid ellipse black lightgrey
+node 970 36.91 19.444 0.75 0.5 970 solid ellipse black lightgrey
+node 677 34.268 22 0.75 0.5 677 solid ellipse black lightgrey
+node 1685 32.973 62.528 0.79437 0.5 1685 solid ellipse black lightgrey
+node 971 36.91 30.056 0.75 0.5 971 solid ellipse black lightgrey
+node a737 34.268 20.194 0.77632 0.5 a737 solid ellipse black lightgrey
+node 972 35.562 20.944 0.75 0.5 972 solid ellipse black lightgrey
+node 974 35.562 20.194 0.75 0.5 974 solid ellipse black lightgrey
+node 1686 34.268 62.528 0.79437 0.5 1686 solid ellipse black lightgrey
+node 975 36.91 35.917 0.75 0.5 975 solid ellipse black lightgrey
+node a753 35.562 36.667 0.77632 0.5 a753 solid ellipse black lightgrey
+node 976 36.91 35.167 0.75 0.5 976 solid ellipse black lightgrey
+node 977 36.91 36.667 0.75 0.5 977 solid ellipse black lightgrey
+node 983 36.91 16.542 0.75 0.5 983 solid ellipse black lightgrey
+node a798 35.562 16.569 0.77632 0.5 a798 solid ellipse black lightgrey
+node 984 36.91 17.292 0.75 0.5 984 solid ellipse black lightgrey
+node 985 46.513 23.111 0.75 0.5 985 solid ellipse black lightgrey
+node 980 36.91 10.486 0.75 0.5 980 solid ellipse black lightgrey
+node a769 35.562 10.806 0.77632 0.5 a769 solid ellipse black lightgrey
+node 981 36.91 9.7361 0.75 0.5 981 solid ellipse black lightgrey
+node 982 36.91 8.9861 0.75 0.5 982 solid ellipse black lightgrey
+node 978 36.91 31.333 0.75 0.5 978 solid ellipse black lightgrey
+node a758 35.562 32.403 0.77632 0.5 a758 solid ellipse black lightgrey
+node 979 36.91 32.083 0.75 0.5 979 solid ellipse black lightgrey
+node 1687 35.562 62.528 0.79437 0.5 1687 solid ellipse black lightgrey
+node 990 38.259 38.458 0.75 0.5 990 solid ellipse black lightgrey
+node a815 36.91 38.472 0.77632 0.5 a815 solid ellipse black lightgrey
+node 991 38.259 39.208 0.75 0.5 991 solid ellipse black lightgrey
+node 992 56.332 33.028 0.75 0.5 992 solid ellipse black lightgrey
+node 986 38.259 54.306 0.75 0.5 986 solid ellipse black lightgrey
+node a812 36.91 54.681 0.77632 0.5 a812 solid ellipse black lightgrey
+node 987 38.259 53.556 0.75 0.5 987 solid ellipse black lightgrey
+node 988 57.734 56.819 0.75 0.5 988 solid ellipse black lightgrey
+node 989 38.259 55.056 0.75 0.5 989 solid ellipse black lightgrey
+node 45 38.259 65.528 0.75 0.5 45 solid ellipse black lightgrey
+node a1025 36.91 64.403 0.9027 0.5 a1025 solid ellipse black lightgrey
+node 47 38.259 64.778 0.75 0.5 47 solid ellipse black lightgrey
+node 49 38.259 64.028 0.75 0.5 49 solid ellipse black lightgrey
+node 50 38.259 63.278 0.75 0.5 50 solid ellipse black lightgrey
+node 1688 36.91 62.528 0.79437 0.5 1688 solid ellipse black lightgrey
+node 993 39.553 28.389 0.75 0.5 993 solid ellipse black lightgrey
+node a843 38.259 29 0.77632 0.5 a843 solid ellipse black lightgrey
+node 994 39.553 27.639 0.75 0.5 994 solid ellipse black lightgrey
+node 995 39.553 29.889 0.75 0.5 995 solid ellipse black lightgrey
+node 996 39.553 29.139 0.75 0.5 996 solid ellipse black lightgrey
+node 997 39.553 42.375 0.75 0.5 997 solid ellipse black lightgrey
+node a844 38.259 40.875 0.77632 0.5 a844 solid ellipse black lightgrey
+node 998 39.553 41.625 0.75 0.5 998 solid ellipse black lightgrey
+node 999 39.553 40.875 0.75 0.5 999 solid ellipse black lightgrey
+node 1000 39.553 40.125 0.79437 0.5 1000 solid ellipse black lightgrey
+node 1001 47.915 47.306 0.79437 0.5 1001 solid ellipse black lightgrey
+node 1002 39.553 43.125 0.79437 0.5 1002 solid ellipse black lightgrey
+node 1689 38.259 62.528 0.79437 0.5 1689 solid ellipse black lightgrey
+node 1003 40.902 4.5 0.79437 0.5 1003 solid ellipse black lightgrey
+node a926 39.553 4.875 0.77632 0.5 a926 solid ellipse black lightgrey
+node 1004 40.902 3.75 0.79437 0.5 1004 solid ellipse black lightgrey
+node 1005 40.902 6 0.79437 0.5 1005 solid ellipse black lightgrey
+node 1006 40.902 5.25 0.79437 0.5 1006 solid ellipse black lightgrey
+node 1691 39.553 62.528 0.79437 0.5 1691 solid ellipse black lightgrey
+node 1015 42.305 52.722 0.79437 0.5 1015 solid ellipse black lightgrey
+node a964 40.902 52.403 0.77632 0.5 a964 solid ellipse black lightgrey
+node 1016 42.305 53.472 0.79437 0.5 1016 solid ellipse black lightgrey
+node 1017 42.305 51.444 0.79437 0.5 1017 solid ellipse black lightgrey
+node 1039 42.305 21.833 0.79437 0.5 1039 solid ellipse black lightgrey
+node a1048 40.902 22.208 0.9027 0.5 a1048 solid ellipse black lightgrey
+node 1041 42.305 21.083 0.79437 0.5 1041 solid ellipse black lightgrey
+node 1042 42.305 22.583 0.79437 0.5 1042 solid ellipse black lightgrey
+node 1010 45.11 42.667 0.79437 0.5 1010 solid ellipse black lightgrey
+node a958 40.902 40.847 0.77632 0.5 a958 solid ellipse black lightgrey
+node 1011 42.305 41.222 0.79437 0.5 1011 solid ellipse black lightgrey
+node 1012 42.305 40.472 0.79437 0.5 1012 solid ellipse black lightgrey
+node 1013 42.305 39.722 0.79437 0.5 1013 solid ellipse black lightgrey
+node 1014 42.305 38.972 0.79437 0.5 1014 solid ellipse black lightgrey
+node 1007 42.305 35.583 0.79437 0.5 1007 solid ellipse black lightgrey
+node a956 40.902 34.944 0.77632 0.5 a956 solid ellipse black lightgrey
+node 1008 42.305 34.833 0.79437 0.5 1008 solid ellipse black lightgrey
+node 1009 42.305 34.083 0.79437 0.5 1009 solid ellipse black lightgrey
+node 1018 42.305 49.639 0.79437 0.5 1018 solid ellipse black lightgrey
+node a965 40.902 50.806 0.77632 0.5 a965 solid ellipse black lightgrey
+node 1019 42.305 48.889 0.79437 0.5 1019 solid ellipse black lightgrey
+node 1020 42.305 48.139 0.79437 0.5 1020 solid ellipse black lightgrey
+node 1022 47.915 48.528 0.79437 0.5 1022 solid ellipse black lightgrey
+node 1693 40.902 62.528 0.79437 0.5 1693 solid ellipse black lightgrey
+node 1034 43.707 27.167 0.79437 0.5 1034 solid ellipse black lightgrey
+node a992 42.305 25.292 0.77632 0.5 a992 solid ellipse black lightgrey
+node 1035 43.707 26.417 0.79437 0.5 1035 solid ellipse black lightgrey
+node 1036 43.707 25.667 0.79437 0.5 1036 solid ellipse black lightgrey
+node 1037 43.707 24.917 0.79437 0.5 1037 solid ellipse black lightgrey
+node 1038 50.721 24.389 0.79437 0.5 1038 solid ellipse black lightgrey
+node 1049 43.707 33.556 0.79437 0.5 1049 solid ellipse black lightgrey
+node a1055 42.305 32.806 0.9027 0.5 a1055 solid ellipse black lightgrey
+node 1051 43.707 32.806 0.79437 0.5 1051 solid ellipse black lightgrey
+node 1027 43.707 19.917 0.79437 0.5 1027 solid ellipse black lightgrey
+node a990 42.305 19.486 0.77632 0.5 a990 solid ellipse black lightgrey
+node 1028 43.707 19.167 0.79437 0.5 1028 solid ellipse black lightgrey
+node 1029 43.707 18.417 0.79437 0.5 1029 solid ellipse black lightgrey
+node 1043 43.707 63.278 0.79437 0.5 1043 solid ellipse black lightgrey
+node a1052 42.305 63.278 0.9027 0.5 a1052 solid ellipse black lightgrey
+node 1023 43.707 47.611 0.79437 0.5 1023 solid ellipse black lightgrey
+node a987 42.305 45.056 0.77632 0.5 a987 solid ellipse black lightgrey
+node 1024 43.707 46.861 0.79437 0.5 1024 solid ellipse black lightgrey
+node 1025 43.707 46.111 0.79437 0.5 1025 solid ellipse black lightgrey
+node 1026 43.707 48.361 0.79437 0.5 1026 solid ellipse black lightgrey
+node 732 43.707 40.778 0.75 0.5 732 solid ellipse black lightgrey
+node a991 42.305 42.5 0.77632 0.5 a991 solid ellipse black lightgrey
+node 78 43.707 43.778 0.75 0.5 78 solid ellipse black lightgrey
+node 1031 43.707 43.028 0.79437 0.5 1031 solid ellipse black lightgrey
+node 1032 43.707 42.278 0.79437 0.5 1032 solid ellipse black lightgrey
+node 1033 43.707 41.528 0.79437 0.5 1033 solid ellipse black lightgrey
+node 427 59.137 40.583 0.75 0.5 427 solid ellipse black lightgrey
+node 1694 42.305 62.528 0.79437 0.5 1694 solid ellipse black lightgrey
+node 1052 47.915 45.806 0.79437 0.5 1052 solid ellipse black lightgrey
+node a1077 46.513 45.431 0.9027 0.5 a1077 solid ellipse black lightgrey
+node 1054 47.915 45.056 0.79437 0.5 1054 solid ellipse black lightgrey
+node 1055 47.915 46.556 0.79437 0.5 1055 solid ellipse black lightgrey
+node 1699 46.513 62.528 0.79437 0.5 1699 solid ellipse black lightgrey
+node 10016 71.761 31.375 0.9027 0.5 10016 solid ellipse black lightgrey
+node a1086 70.359 31.75 0.9027 0.5 a1086 solid ellipse black lightgrey
+node 10017 71.761 30.625 0.9027 0.5 10017 solid ellipse black lightgrey
+node 10018 71.761 32.125 0.9027 0.5 10018 solid ellipse black lightgrey
+node 1068 71.761 32.875 0.79437 0.5 1068 solid ellipse black lightgrey
+node 1795 70.359 62.528 0.79437 0.5 1795 solid ellipse black lightgrey
+node 1056 70.359 49.472 0.79437 0.5 1056 solid ellipse black lightgrey
+node a1114 43.707 39.5 0.9027 0.5 a1114 solid ellipse black lightgrey
+node 1057 45.11 40.861 0.79437 0.5 1057 solid ellipse black lightgrey
+node 1058 45.11 40.111 0.79437 0.5 1058 solid ellipse black lightgrey
+node 1696 43.707 62.528 0.79437 0.5 1696 solid ellipse black lightgrey
+node a1131 45.11 19.917 0.9027 0.5 a1131 solid ellipse black lightgrey
+node 1059 46.513 22.361 0.79437 0.5 1059 solid ellipse black lightgrey
+node 455 57.734 24.611 0.75 0.5 455 solid ellipse black lightgrey
+node 1060 59.137 19.653 0.79437 0.5 1060 solid ellipse black lightgrey
+node 1697 45.11 62.528 0.79437 0.5 1697 solid ellipse black lightgrey
+node 1061 49.318 25.444 0.79437 0.5 1061 solid ellipse black lightgrey
+node a1209 47.915 26.194 0.9027 0.5 a1209 solid ellipse black lightgrey
+node 1062 49.318 27.694 0.79437 0.5 1062 solid ellipse black lightgrey
+node 1063 49.318 26.944 0.79437 0.5 1063 solid ellipse black lightgrey
+node 1064 49.318 26.194 0.79437 0.5 1064 solid ellipse black lightgrey
+node 1700 47.915 62.528 0.79437 0.5 1700 solid ellipse black lightgrey
+node 1074 50.721 38.139 0.79437 0.5 1074 solid ellipse black lightgrey
+node a1257 49.318 37.014 0.9027 0.5 a1257 solid ellipse black lightgrey
+node 1075 50.721 37.389 0.79437 0.5 1075 solid ellipse black lightgrey
+node 1076 50.721 36.639 0.79437 0.5 1076 solid ellipse black lightgrey
+node 1077 50.721 38.889 0.79437 0.5 1077 solid ellipse black lightgrey
+node 1070 50.721 31.306 0.79437 0.5 1070 solid ellipse black lightgrey
+node a1252 49.318 32.056 0.9027 0.5 a1252 solid ellipse black lightgrey
+node 1071 50.721 33.556 0.79437 0.5 1071 solid ellipse black lightgrey
+node 1072 50.721 32.806 0.79437 0.5 1072 solid ellipse black lightgrey
+node 1073 50.721 32.056 0.79437 0.5 1073 solid ellipse black lightgrey
+node 1065 60.54 19.681 0.79437 0.5 1065 solid ellipse black lightgrey
+node a1240 49.318 28.444 0.9027 0.5 a1240 solid ellipse black lightgrey
+node 1066 50.721 26.417 0.79437 0.5 1066 solid ellipse black lightgrey
+node 1067 50.721 27.917 0.79437 0.5 1067 solid ellipse black lightgrey
+node 1069 50.721 27.167 0.79437 0.5 1069 solid ellipse black lightgrey
+node 1701 49.318 62.528 0.79437 0.5 1701 solid ellipse black lightgrey
+node 1078 52.123 66.278 0.79437 0.5 1078 solid ellipse black lightgrey
+node a1272 50.721 64.778 0.9027 0.5 a1272 solid ellipse black lightgrey
+node 1079 52.123 65.528 0.79437 0.5 1079 solid ellipse black lightgrey
+node 1080 52.123 64.778 0.79437 0.5 1080 solid ellipse black lightgrey
+node 1081 52.123 64.028 0.79437 0.5 1081 solid ellipse black lightgrey
+node 1082 52.123 63.278 0.79437 0.5 1082 solid ellipse black lightgrey
+node 1702 50.721 62.528 0.79437 0.5 1702 solid ellipse black lightgrey
+node 1083 53.526 18.75 0.79437 0.5 1083 solid ellipse black lightgrey
+node a1320 52.123 18 0.9027 0.5 a1320 solid ellipse black lightgrey
+node 1084 53.526 18 0.79437 0.5 1084 solid ellipse black lightgrey
+node 1085 53.526 17.25 0.79437 0.5 1085 solid ellipse black lightgrey
+node 1086 53.526 16.5 0.79437 0.5 1086 solid ellipse black lightgrey
+node 1703 52.123 62.528 0.79437 0.5 1703 solid ellipse black lightgrey
+node 689 54.929 30.472 0.75 0.5 689 solid ellipse black lightgrey
+node a1333 53.526 31.222 0.9027 0.5 a1333 solid ellipse black lightgrey
+node 1091 54.929 29.722 0.79437 0.5 1091 solid ellipse black lightgrey
+node 1092 54.929 31.972 0.79437 0.5 1092 solid ellipse black lightgrey
+node 1093 54.929 31.222 0.79437 0.5 1093 solid ellipse black lightgrey
+node 1087 54.929 24.083 0.79437 0.5 1087 solid ellipse black lightgrey
+node a1330 53.526 22.583 0.9027 0.5 a1330 solid ellipse black lightgrey
+node 1088 54.929 22.583 0.79437 0.5 1088 solid ellipse black lightgrey
+node 1089 54.929 21.833 0.79437 0.5 1089 solid ellipse black lightgrey
+node 1090 54.929 21.083 0.79437 0.5 1090 solid ellipse black lightgrey
+node 1704 53.526 62.528 0.79437 0.5 1704 solid ellipse black lightgrey
+node a1411 54.929 27.917 0.9027 0.5 a1411 solid ellipse black lightgrey
+node 1098 56.332 26.944 0.79437 0.5 1098 solid ellipse black lightgrey
+node 1099 56.332 28.444 0.79437 0.5 1099 solid ellipse black lightgrey
+node 1100 56.332 27.694 0.79437 0.5 1100 solid ellipse black lightgrey
+node 1094 56.332 21.833 0.79437 0.5 1094 solid ellipse black lightgrey
+node a1397 54.929 23.333 0.9027 0.5 a1397 solid ellipse black lightgrey
+node 1095 56.332 21.083 0.79437 0.5 1095 solid ellipse black lightgrey
+node 1096 56.332 24.083 0.79437 0.5 1096 solid ellipse black lightgrey
+node 1097 56.332 22.583 0.79437 0.5 1097 solid ellipse black lightgrey
+node 1706 54.929 62.528 0.79437 0.5 1706 solid ellipse black lightgrey
+node 1108 57.734 66.278 0.79437 0.5 1108 solid ellipse black lightgrey
+node a1467 56.332 64.778 0.9027 0.5 a1467 solid ellipse black lightgrey
+node 1109 57.734 65.528 0.79437 0.5 1109 solid ellipse black lightgrey
+node 1110 57.734 64.778 0.79437 0.5 1110 solid ellipse black lightgrey
+node 1111 57.734 64.028 0.79437 0.5 1111 solid ellipse black lightgrey
+node 1112 57.734 63.278 0.79437 0.5 1112 solid ellipse black lightgrey
+node 1105 57.734 58.097 0.79437 0.5 1105 solid ellipse black lightgrey
+node a1464 56.332 58.097 0.9027 0.5 a1464 solid ellipse black lightgrey
+node 1106 57.734 58.847 0.79437 0.5 1106 solid ellipse black lightgrey
+node 1107 59.137 59 0.79437 0.5 1107 solid ellipse black lightgrey
+node 1101 57.734 23.861 0.79437 0.5 1101 solid ellipse black lightgrey
+node a1463 56.332 23.333 0.9027 0.5 a1463 solid ellipse black lightgrey
+node 1102 57.734 23.111 0.79437 0.5 1102 solid ellipse black lightgrey
+node 1103 57.734 22.361 0.79437 0.5 1103 solid ellipse black lightgrey
+node 1104 57.734 21.611 0.79437 0.5 1104 solid ellipse black lightgrey
+node 1707 56.332 62.528 0.79437 0.5 1707 solid ellipse black lightgrey
+node 1120 59.137 18.153 0.79437 0.5 1120 solid ellipse black lightgrey
+node a1497 57.734 18.75 0.9027 0.5 a1497 solid ellipse black lightgrey
+node 1121 59.137 17.403 0.79437 0.5 1121 solid ellipse black lightgrey
+node 1122 59.137 18.903 0.79437 0.5 1122 solid ellipse black lightgrey
+node 1113 59.137 54.792 0.79437 0.5 1113 solid ellipse black lightgrey
+node a1485 57.734 55.167 0.9027 0.5 a1485 solid ellipse black lightgrey
+node 1114 59.137 54.042 0.79437 0.5 1114 solid ellipse black lightgrey
+node 1115 59.137 55.542 0.79437 0.5 1115 solid ellipse black lightgrey
+node 192 59.137 44.167 0.75 0.5 192 solid ellipse black lightgrey
+node a1499 57.734 43.417 0.9027 0.5 a1499 solid ellipse black lightgrey
+node 193 59.137 43.417 0.75 0.5 193 solid ellipse black lightgrey
+node 428 59.137 42.667 0.75 0.5 428 solid ellipse black lightgrey
+node 430 59.137 45.667 0.75 0.5 430 solid ellipse black lightgrey
+node 431 59.137 44.917 0.75 0.5 431 solid ellipse black lightgrey
+node 1116 70.359 58.778 0.79437 0.5 1116 solid ellipse black lightgrey
+node a1491 57.734 60.653 0.9027 0.5 a1491 solid ellipse black lightgrey
+node 1117 59.137 61.778 0.79437 0.5 1117 solid ellipse black lightgrey
+node 1118 59.137 61.028 0.79437 0.5 1118 solid ellipse black lightgrey
+node 1119 59.137 60.278 0.79437 0.5 1119 solid ellipse black lightgrey
+node 1708 57.734 62.528 0.79437 0.5 1708 solid ellipse black lightgrey
+node 1123 60.54 17.403 0.79437 0.5 1123 solid ellipse black lightgrey
+node a1670 59.137 16.653 0.9027 0.5 a1670 solid ellipse black lightgrey
+node 1124 60.54 16.653 0.79437 0.5 1124 solid ellipse black lightgrey
+node 1125 60.54 15.903 0.79437 0.5 1125 solid ellipse black lightgrey
+node 1126 60.54 15.153 0.79437 0.5 1126 solid ellipse black lightgrey
+node 1127 60.54 18.153 0.79437 0.5 1127 solid ellipse black lightgrey
+node 100 60.54 66.278 0.75 0.5 100 solid ellipse black lightgrey
+node a1537 59.137 64.778 0.9027 0.5 a1537 solid ellipse black lightgrey
+node 101 60.54 65.528 0.75 0.5 101 solid ellipse black lightgrey
+node 102 60.54 64.778 0.75 0.5 102 solid ellipse black lightgrey
+node 103 60.54 64.028 0.75 0.5 103 solid ellipse black lightgrey
+node 104 60.54 63.278 0.75 0.5 104 solid ellipse black lightgrey
+node 1716 59.137 62.528 0.79437 0.5 1716 solid ellipse black lightgrey
+node 1128 61.942 68.903 0.79437 0.5 1128 solid ellipse black lightgrey
+node a1787 60.54 67.028 0.9027 0.5 a1787 solid ellipse black lightgrey
+node 1129 61.942 68.153 0.79437 0.5 1129 solid ellipse black lightgrey
+node 1130 61.942 67.403 0.79437 0.5 1130 solid ellipse black lightgrey
+node 1131 61.942 66.653 0.79437 0.5 1131 solid ellipse black lightgrey
+node 1132 61.942 65.903 0.79437 0.5 1132 solid ellipse black lightgrey
+node 1133 61.942 65.153 0.79437 0.5 1133 solid ellipse black lightgrey
+node 1718 60.54 62.528 0.79437 0.5 1718 solid ellipse black lightgrey
+node 1834 63.345 70.778 0.79437 0.5 1834 solid ellipse black lightgrey
+node a1890 61.942 69.653 0.9027 0.5 a1890 solid ellipse black lightgrey
+node 15085 63.345 70.028 0.9027 0.5 15085 solid ellipse black lightgrey
+node 15086 63.345 69.278 0.9027 0.5 15086 solid ellipse black lightgrey
+node 15087 63.345 68.528 0.9027 0.5 15087 solid ellipse black lightgrey
+node 1720 61.942 62.528 0.79437 0.5 1720 solid ellipse black lightgrey
+node 27 64.748 58.833 0.75 0.5 27 solid ellipse black lightgrey
+node a2049 63.345 58.083 0.9027 0.5 a2049 solid ellipse black lightgrey
+node 29 64.748 58.083 0.75 0.5 29 solid ellipse black lightgrey
+node 1721 63.345 62.528 0.79437 0.5 1721 solid ellipse black lightgrey
+node 1134 67.553 66.278 0.79437 0.5 1134 solid ellipse black lightgrey
+node a2088 66.15 64.778 0.9027 0.5 a2088 solid ellipse black lightgrey
+node 1135 67.553 65.528 0.79437 0.5 1135 solid ellipse black lightgrey
+node 1136 67.553 64.778 0.79437 0.5 1136 solid ellipse black lightgrey
+node 1137 67.553 64.028 0.79437 0.5 1137 solid ellipse black lightgrey
+node 1138 67.553 63.278 0.79437 0.5 1138 solid ellipse black lightgrey
+node 1726 66.15 62.528 0.79437 0.5 1726 solid ellipse black lightgrey
+node 1140 68.956 68.153 0.79437 0.5 1140 solid ellipse black lightgrey
+node a2188 67.553 67.028 0.9027 0.5 a2188 solid ellipse black lightgrey
+node 1141 68.956 67.403 0.79437 0.5 1141 solid ellipse black lightgrey
+node 1142 68.956 66.653 0.79437 0.5 1142 solid ellipse black lightgrey
+node 1143 68.956 65.903 0.79437 0.5 1143 solid ellipse black lightgrey
+node 1729 67.553 62.528 0.79437 0.5 1729 solid ellipse black lightgrey
+node 1144 66.15 57.333 0.79437 0.5 1144 solid ellipse black lightgrey
+node a2222 64.748 57.333 0.9027 0.5 a2222 solid ellipse black lightgrey
+node 1145 66.15 56.583 0.79437 0.5 1145 solid ellipse black lightgrey
+node 1146 66.15 58.083 0.79437 0.5 1146 solid ellipse black lightgrey
+node 1725 64.748 62.528 0.79437 0.5 1725 solid ellipse black lightgrey
+node 627 70.359 70.028 0.75 0.5 627 solid ellipse black lightgrey
+node a2269 68.956 68.903 0.9027 0.5 a2269 solid ellipse black lightgrey
+node 628 70.359 69.278 0.75 0.5 628 solid ellipse black lightgrey
+node 629 70.359 68.528 0.75 0.5 629 solid ellipse black lightgrey
+node 630 70.359 67.778 0.75 0.5 630 solid ellipse black lightgrey
+node 623 70.359 73.028 0.75 0.5 623 solid ellipse black lightgrey
+node a2258 68.956 71.903 0.9027 0.5 a2258 solid ellipse black lightgrey
+node 624 70.359 72.278 0.75 0.5 624 solid ellipse black lightgrey
+node 625 70.359 71.528 0.75 0.5 625 solid ellipse black lightgrey
+node 626 70.359 70.778 0.75 0.5 626 solid ellipse black lightgrey
+node 595 70.359 30.25 0.75 0.5 595 solid ellipse black lightgrey
+node a2261 68.956 30.625 0.9027 0.5 a2261 solid ellipse black lightgrey
+node 1147 70.359 29.5 0.79437 0.5 1147 solid ellipse black lightgrey
+node 1148 70.359 31 0.79437 0.5 1148 solid ellipse black lightgrey
+node 1149 70.359 61.028 0.79437 0.5 1149 solid ellipse black lightgrey
+node a2316 68.956 60.278 0.9027 0.5 a2316 solid ellipse black lightgrey
+node 1150 70.359 60.278 0.79437 0.5 1150 solid ellipse black lightgrey
+node 1151 70.359 59.528 0.79437 0.5 1151 solid ellipse black lightgrey
+node 789 70.359 61.778 0.75 0.5 789 solid ellipse black lightgrey
+node 1730 68.956 62.528 0.79437 0.5 1730 solid ellipse black lightgrey
+edge a1 1 4 0.58818 42.388 0.83431 42.673 1.2595 43.166 1.504 43.449 solid black
+edge a1 2 4 0.68445 42.333 0.89895 42.457 1.1908 42.627 1.4051 42.751 solid black
+edge a1 4 4 0.77854 42.167 0.94707 42.167 1.1447 42.167 1.3129 42.167 solid black
+edge a1 5 4 0.68445 42 0.89895 41.876 1.1908 41.707 1.4051 41.583 solid black
+edge a1 6 4 0.58818 41.945 0.83431 41.66 1.2595 41.167 1.504 40.884 solid black
+edge a3 823 4 0.68445 45.861 0.89895 45.985 1.1908 46.154 1.4051 46.278 solid black
+edge a3 824 4 0.77854 45.694 0.94707 45.694 1.1447 45.694 1.3129 45.694 solid black
+edge a3 825 4 0.68445 45.528 0.89895 45.404 1.1908 45.235 1.4051 45.11 solid black
+edge a3 826 4 0.58818 45.916 0.83431 46.201 1.2595 46.694 1.504 46.977 solid black
+edge a3 827 4 0.76135 45.629 2.0659 45.396 6.4968 44.604 7.8001 44.371 solid black
+edge 1656 1657 4 0.7961 62.528 0.90806 62.528 1.0317 62.528 1.1504 62.528 solid black
+edge a18 828 4 1.8938 58.286 2.137 58.547 2.5426 58.983 2.7851 59.243 solid black
+edge a18 829 4 1.9983 58.221 2.2046 58.323 2.4755 58.456 2.6814 58.558 solid black
+edge a18 830 4 2.0177 57.938 5.3567 56.591 33.275 45.328 36.589 43.991 solid black
+edge a18 831 4 2.0702 58.064 5.3763 58.02 29.295 57.702 32.596 57.658 solid black
+edge a18 832 4 1.818 57.831 2.0661 57.362 2.6139 56.328 2.8609 55.861 solid black
+edge 1657 1658 4 2.0905 62.528 2.2024 62.528 2.3261 62.528 2.4448 62.528 solid black
+edge a41 830 4 3.3162 56.253 6.5986 55.042 33.308 45.19 36.582 43.982 solid black
+edge a41 831 4 3.3651 56.391 6.5906 56.529 29.386 57.5 32.597 57.637 solid black
+edge a41 833 4 3.2732 56.209 3.4877 56.084 3.7795 55.915 3.9938 55.791 solid black
+edge a41 834 4 3.3673 56.375 3.5358 56.375 3.7335 56.375 3.9017 56.375 solid black
+edge 1658 1659 4 3.3849 62.528 3.4968 62.528 3.6204 62.528 3.7392 62.528 solid black
+edge a59 835 4 4.6369 25.471 8.1802 24.636 37.013 17.834 40.547 17 solid black
+edge a59 836 4 4.3092 25.303 4.4815 23.794 5.3732 15.986 5.5458 14.475 solid black
+edge a59 837 4 4.5082 25.757 6.773 27.761 25.202 44.065 27.461 46.063 solid black
+edge a59 838 4 4.3522 25.801 4.7238 27.071 6.4226 32.877 6.7962 34.154 solid black
+edge 1659 1660 4 4.6792 62.528 4.7912 62.528 4.9148 62.528 5.0336 62.528 solid black
+edge a82 838 4 5.6965 32.088 5.9438 32.576 6.5023 33.679 6.7486 34.165 solid black
+edge a82 839 4 5.8619 31.681 6.0764 31.556 6.3683 31.387 6.5826 31.263 solid black
+edge a82 840 4 5.7657 31.626 6.0118 31.341 6.437 30.848 6.6815 30.565 solid black
+edge a82 841 4 5.9453 31.803 10.435 31.273 54.283 26.088 58.767 25.558 solid black
+edge a82 842 4 5.956 31.847 6.1246 31.847 6.3222 31.847 6.4904 31.847 solid black
+edge 1660 1661 4 5.9736 62.528 6.0856 62.528 6.2092 62.528 6.3279 62.528 solid black
+edge a118 827 4 6.8998 33.906 7.0761 35.357 7.9575 42.61 8.133 44.055 solid black
+edge a118 835 4 7.1789 33.5 10.383 31.925 37.413 18.632 40.596 17.067 solid black
+edge a118 843 4 7.2574 33.653 7.4242 33.653 7.6185 33.653 7.7843 33.653 solid black
+edge a118 844 4 7.06 33.874 7.3062 34.159 7.7314 34.652 7.9759 34.935 solid black
+edge a118 845 4 7.1628 33.823 7.3776 33.947 7.6673 34.115 7.8798 34.238 solid black
+edge 1661 1662 4 7.268 62.528 7.3799 62.528 7.5036 62.528 7.6223 62.528 solid black
+edge a139 835 4 8.5199 7.7124 11.837 8.6554 37.264 15.882 40.552 16.817 solid black
+edge a139 850 4 8.5518 7.6111 8.7186 7.6111 8.9129 7.6111 9.0786 7.6111 solid black
+edge a139 851 4 8.4571 7.4409 8.672 7.3165 8.9617 7.1486 9.1741 7.0255 solid black
+edge a139 852 4 8.3544 7.3898 8.6005 7.1046 9.0258 6.6118 9.2702 6.3285 solid black
+edge a139 853 4 8.4571 7.7813 8.672 7.9058 8.9617 8.0737 9.1741 8.1968 solid black
+edge a130 835 4 8.5035 28.6 11.759 27.426 37.359 18.194 40.571 17.036 solid black
+edge a130 846 4 8.4571 28.552 8.672 28.428 8.9617 28.26 9.1741 28.137 solid black
+edge a130 847 4 8.552 28.725 11.362 28.745 28.537 28.867 31.303 28.886 solid black
+edge a130 848 4 8.4571 28.892 8.672 29.017 8.9617 29.185 9.1741 29.308 solid black
+edge a130 849 4 8.5518 28.722 8.7186 28.722 8.9129 28.722 9.0786 28.722 solid black
+edge 1662 1663 4 8.5623 62.528 8.6743 62.528 8.7979 62.528 8.9167 62.528 solid black
+edge a146 835 4 9.8218 25.099 13.091 24.238 37.345 17.853 40.552 17.009 solid black
+edge a146 858 4 9.7515 25.365 9.9663 25.489 10.256 25.657 10.469 25.78 solid black
+edge a146 859 4 9.8462 25.194 10.013 25.194 10.207 25.194 10.373 25.194 solid black
+edge a146 860 4 9.7515 25.024 9.9663 24.9 10.256 24.732 10.469 24.609 solid black
+edge a146 861 4 9.6488 25.416 9.8949 25.701 10.32 26.194 10.565 26.477 solid black
+edge a145 835 4 9.8002 5.4869 12.988 6.6585 37.433 15.642 40.571 16.795 solid black
+edge a145 854 4 9.6892 5.5622 9.9248 5.767 10.288 6.0826 10.523 6.2867 solid black
+edge a145 855 4 9.8184 5.4656 10.002 5.5189 10.225 5.5834 10.407 5.6361 solid black
+edge a145 856 4 9.8184 5.2567 10.002 5.2033 10.225 5.1388 10.407 5.0861 solid black
+edge a145 857 4 9.6892 5.16 9.9248 4.9552 10.288 4.6396 10.523 4.4355 solid black
+edge 1663 1665 4 9.8567 62.528 9.9687 62.528 10.092 62.528 10.211 62.528 solid black
+edge a208 835 4 11.128 21.978 14.354 21.429 37.34 17.522 40.534 16.979 solid black
+edge a208 862 4 11.113 21.937 11.297 21.884 11.52 21.819 11.701 21.767 solid black
+edge a208 863 4 10.984 22.243 11.219 22.448 11.582 22.763 11.817 22.967 solid black
+edge a208 864 4 11.113 22.146 11.297 22.199 11.52 22.264 11.701 22.317 solid black
+edge 1665 1666 4 11.151 62.528 11.263 62.528 11.387 62.528 11.505 62.528 solid black
+edge a221 617 4 12.34 52.295 12.555 52.42 12.845 52.588 13.057 52.711 solid black
+edge a221 618 4 12.435 52.125 12.602 52.125 12.796 52.125 12.962 52.125 solid black
+edge a221 619 4 12.238 52.346 12.484 52.632 12.909 53.124 13.153 53.408 solid black
+edge a221 620 4 12.289 51.928 14.774 49.906 35.553 33.006 38.02 31 solid black
+edge a221 621 4 12.421 52.054 14.792 51.607 27.687 49.175 30.022 48.735 solid black
+edge a211 835 4 12.351 1.9101 15.239 3.4281 37.759 15.265 40.606 16.761 solid black
+edge a211 865 4 12.34 1.9202 12.555 2.0447 12.845 2.2126 13.057 2.3356 solid black
+edge a211 866 4 12.435 1.75 12.602 1.75 12.796 1.75 12.962 1.75 solid black
+edge a211 867 4 12.34 1.5798 12.555 1.4553 12.845 1.2874 13.057 1.1644 solid black
+edge a211 868 4 12.238 1.5287 12.484 1.2434 12.909 0.75065 13.153 0.46736 solid black
+edge 1666 1667 4 12.445 62.528 12.557 62.528 12.681 62.528 12.8 62.528 solid black
+edge a224 835 4 13.641 31.588 16.434 30.085 37.839 18.565 40.607 17.075 solid black
+edge a224 429 4 13.724 31.802 18.447 32.447 65.352 38.845 69.99 39.477 solid black
+edge a224 869 4 13.661 31.894 13.863 31.985 14.123 32.102 14.323 32.193 solid black
+edge a224 870 4 13.732 31.764 16.142 31.852 28.937 32.317 31.303 32.403 solid black
+edge 1667 1668 4 13.74 62.528 13.852 62.528 13.975 62.528 14.094 62.528 solid black
+edge a247 830 4 14.994 49.846 17.63 49.127 33.963 44.666 36.562 43.956 solid black
+edge a247 871 4 14.996 50.049 15.18 50.102 15.403 50.167 15.584 50.219 solid black
+edge a247 872 4 14.996 49.84 15.18 49.787 15.403 49.722 15.584 49.669 solid black
+edge a247 873 4 15.02 49.986 18.813 50.392 49.432 53.672 53.156 54.071 solid black
+edge a247 874 4 15.015 49.996 16.337 50.176 20.725 50.772 22.032 50.95 solid black
+edge a247 875 4 14.879 49.744 16.51 48.4 25.841 40.715 27.451 39.389 solid black
+edge 1668 1669 4 15.034 62.528 15.146 62.528 15.27 62.528 15.389 62.528 solid black
+edge a256 620 4 16.317 28.608 19.036 28.881 35.219 30.501 37.887 30.768 solid black
+edge a256 876 4 16.29 28.674 16.474 28.727 16.697 28.792 16.879 28.844 solid black
+edge a256 877 4 16.29 28.465 16.474 28.412 16.697 28.347 16.879 28.294 solid black
+edge a256 878 4 16.161 28.368 16.397 28.164 16.76 27.848 16.995 27.644 solid black
+edge 1669 1670 4 16.329 62.528 16.441 62.528 16.564 62.528 16.683 62.528 solid black
+edge a267 815 4 17.612 12.194 17.779 12.194 17.973 12.194 18.139 12.194 solid black
+edge a267 816 4 17.518 12.024 17.733 11.9 18.022 11.732 18.235 11.609 solid black
+edge a267 817 4 17.415 11.973 17.661 11.688 18.086 11.195 18.331 10.912 solid black
+edge a267 818 4 17.36 11.958 17.608 11.527 18.131 10.618 18.38 10.185 solid black
+edge a267 819 4 17.613 12.186 20.126 12.131 34.05 11.826 36.532 11.772 solid black
+edge a267 821 4 17.373 12.427 17.621 12.816 18.118 13.595 18.368 13.986 solid black
+edge a267 822 4 17.518 12.365 17.733 12.489 18.022 12.657 18.235 12.78 solid black
+edge 1670 1671 4 17.623 62.528 17.735 62.528 17.859 62.528 17.977 62.528 solid black
+edge a291 830 4 18.907 43.045 21.313 43.154 34.158 43.736 36.533 43.844 solid black
+edge a291 879 4 18.907 43.028 19.074 43.028 19.268 43.028 19.434 43.028 solid black
+edge a291 880 4 18.812 42.858 19.027 42.733 19.317 42.565 19.529 42.442 solid black
+edge a291 881 4 18.875 42.922 21.709 42.078 40.579 36.459 43.364 35.63 solid black
+edge a291 882 4 18.812 43.198 19.027 43.322 19.317 43.49 19.529 43.613 solid black
+edge 1671 1673 4 18.917 62.528 19.029 62.528 19.153 62.528 19.272 62.528 solid black
+edge a319 835 4 20.201 16.412 22.826 16.476 37.932 16.844 40.524 16.907 solid black
+edge a319 884 4 20.107 16.233 20.321 16.108 20.611 15.94 20.824 15.817 solid black
+edge a319 885 4 20.107 16.573 20.321 16.697 20.611 16.865 20.824 16.988 solid black
+edge a319 886 4 20.194 16.451 22.474 16.74 34.288 18.237 36.539 18.522 solid black
+edge a319 887 4 20.201 16.403 20.368 16.403 20.562 16.403 20.728 16.403 solid black
+edge 1673 1674 4 20.212 62.528 20.324 62.528 20.447 62.528 20.566 62.528 solid black
+edge a348 874 4 21.321 52.067 21.561 51.83 21.948 51.448 22.187 51.211 solid black
+edge a348 875 4 21.227 52.04 22.041 50.42 26.755 41.049 27.568 39.432 solid black
+edge a348 888 4 21.49 52.33 25.223 52.839 55.107 56.909 58.769 57.408 solid black
+edge a348 889 4 21.466 52.177 24.023 51.46 39.446 47.135 41.959 46.43 solid black
+edge a348 890 4 21.496 52.278 21.662 52.278 21.857 52.278 22.022 52.278 solid black
+edge 1674 1675 4 21.506 62.528 21.618 62.528 21.742 62.528 21.86 62.528 solid black
+edge a358 10027 4 22.567 5.6605 22.824 6.0184 23.318 6.7052 23.579 7.0678 solid black
+edge a358 10028 4 22.643 5.6317 22.884 5.8327 23.252 6.1404 23.497 6.3447 solid black
+edge a358 10029 4 22.759 5.5301 22.939 5.58 23.157 5.6406 23.343 5.6923 solid black
+edge a358 10030 4 22.759 5.331 22.939 5.2811 23.157 5.2205 23.343 5.1688 solid black
+edge a358 10031 4 22.643 5.2294 22.884 5.0284 23.252 4.7207 23.497 4.5164 solid black
+edge a358 908 4 22.759 5.5314 23.521 5.746 25.294 6.2458 26.046 6.4578 solid black
+edge a357 10024 4 22.792 21.139 22.949 21.139 23.131 21.139 23.294 21.139 solid black
+edge a357 10025 4 22.601 21.36 22.854 21.642 23.29 22.127 23.546 22.412 solid black
+edge a357 919 4 22.772 21.223 23.94 21.487 27.533 22.299 28.68 22.558 solid black
+edge a357 10022 4 22.494 20.891 22.741 20.229 23.413 18.431 23.659 17.773 solid black
+edge a357 10026 4 22.701 21.305 22.917 21.425 23.207 21.587 23.428 21.71 solid black
+edge a356 10022 4 22.643 16.604 22.884 16.805 23.252 17.113 23.497 17.317 solid black
+edge a356 10019 4 22.759 16.303 22.939 16.253 23.157 16.193 23.343 16.141 solid black
+edge a356 10020 4 22.643 16.202 22.884 16.001 23.252 15.693 23.497 15.489 solid black
+edge a356 10021 4 22.759 16.502 22.939 16.552 23.157 16.613 23.343 16.665 solid black
+edge 1675 1676 4 22.799 62.528 22.928 62.528 23.074 62.528 23.211 62.528 solid black
+edge a379 891 4 23.949 33.418 24.205 33.132 24.649 32.64 24.903 32.356 solid black
+edge a379 892 4 24.14 33.639 24.324 33.639 24.542 33.639 24.723 33.639 solid black
+edge a379 893 4 23.995 33.835 26.118 35.537 41.363 47.759 43.467 49.446 solid black
+edge a379 894 4 24.042 33.806 26.213 35.055 39.845 42.891 42.014 44.138 solid black
+edge a379 895 4 24.049 33.472 24.276 33.346 24.585 33.174 24.809 33.05 solid black
+edge a384 841 4 24.089 38.857 27.493 37.561 55.462 26.913 58.81 25.638 solid black
+edge a384 875 4 24.138 39.007 24.897 39.047 26.567 39.135 27.314 39.175 solid black
+edge a384 896 4 24.049 39.149 24.274 39.272 24.581 39.44 24.805 39.562 solid black
+edge a384 897 4 24.089 38.855 25.935 38.14 34.776 34.716 36.586 34.015 solid black
+edge a384 898 4 23.949 39.205 24.205 39.488 24.649 39.976 24.903 40.257 solid black
+edge a384 899 4 24.034 38.815 24.954 38.262 27.844 36.523 28.757 35.974 solid black
+edge 1676 1677 4 24.147 62.528 24.277 62.528 24.422 62.528 24.56 62.528 solid black
+edge a426 835 4 25.393 25.558 27.367 24.459 38.642 18.176 40.609 17.08 solid black
+edge a426 875 4 25.147 25.973 25.47 27.656 27.317 37.268 27.639 38.945 solid black
+edge a426 909 4 25.487 25.722 25.654 25.722 25.848 25.722 26.014 25.722 solid black
+edge a426 910 4 25.392 25.552 25.607 25.428 25.897 25.26 26.109 25.137 solid black
+edge a426 911 4 25.392 25.892 25.607 26.017 25.897 26.185 26.109 26.308 solid black
+edge a401 873 4 25.448 45.098 28.473 46.069 50.21 53.047 53.188 54.003 solid black
+edge a401 900 4 25.459 45.091 25.643 45.144 25.866 45.208 26.048 45.261 solid black
+edge a401 901 4 25.459 44.882 25.643 44.828 25.866 44.764 26.048 44.711 solid black
+edge a401 902 4 25.33 44.785 25.566 44.58 25.929 44.265 26.164 44.06 solid black
+edge a401 903 4 25.455 44.884 26.206 44.67 27.946 44.173 28.689 43.96 solid black
+edge a401 904 4 25.33 45.187 25.566 45.392 25.929 45.708 26.164 45.912 solid black
+edge a404 835 4 25.341 4.2388 27.172 5.7305 38.827 15.226 40.66 16.719 solid black
+edge a404 908 4 25.223 4.2827 25.471 4.7644 26.025 5.8408 26.271 6.3189 solid black
+edge a404 905 4 25.473 4.118 25.649 4.1539 25.858 4.1966 26.033 4.2321 solid black
+edge a404 906 4 25.265 4.2687 25.514 4.6073 25.979 5.2413 26.227 5.5794 solid black
+edge a404 907 4 25.348 4.2372 25.579 4.4178 25.92 4.6847 26.149 4.8641 solid black
+edge 1677 1678 4 25.498 62.528 25.609 62.528 25.733 62.528 25.852 62.528 solid black
+edge a443 830 4 26.499 20.006 27.53 22.37 35.779 41.268 36.806 43.621 solid black
+edge a443 875 4 26.41 20.017 26.551 22.13 27.53 36.828 27.671 38.942 solid black
+edge a443 915 4 26.775 19.707 28.272 19.482 33.721 18.665 35.193 18.444 solid black
+edge a443 916 4 26.649 19.575 26.876 19.407 27.205 19.162 27.432 18.994 solid black
+edge a443 917 4 26.685 19.595 28.198 18.72 35.127 14.712 36.625 13.846 solid black
+edge a443 918 4 26.76 19.855 26.94 19.899 27.155 19.952 27.332 19.996 solid black
+edge a431 835 4 26.489 53.312 27.685 50.293 39.609 20.182 40.805 17.161 solid black
+edge a431 837 4 26.438 53.305 26.637 52.183 27.444 47.634 27.643 46.514 solid black
+edge a431 912 4 26.687 53.726 26.902 53.85 27.191 54.018 27.404 54.141 solid black
+edge a431 913 4 26.781 53.556 26.948 53.556 27.142 53.556 27.308 53.556 solid black
+edge a431 914 4 26.584 53.777 26.83 54.062 27.255 54.555 27.5 54.838 solid black
+edge 1678 1679 4 26.792 62.528 26.904 62.528 27.027 62.528 27.146 62.528 solid black
+edge a496 835 4 27.895 30.287 29.441 28.697 39.15 18.718 40.695 17.13 solid black
+edge a496 886 4 27.863 30.272 29.025 28.77 35.58 20.29 36.736 18.795 solid black
+edge a496 899 4 27.751 30.749 27.977 31.64 28.747 34.667 28.973 35.557 solid black
+edge a496 923 4 27.886 30.721 28.143 31.007 28.586 31.499 28.84 31.783 solid black
+edge a496 924 4 27.892 30.283 28.872 29.24 33.091 24.752 34.066 23.715 solid black
+edge a496 925 4 27.987 30.666 28.213 30.792 28.523 30.965 28.747 31.089 solid black
+edge a496 926 4 28.077 30.5 28.261 30.5 28.479 30.5 28.661 30.5 solid black
+edge a481 835 4 28.041 20.729 29.917 20.173 38.69 17.572 40.554 17.02 solid black
+edge a481 919 4 27.858 21.062 28.118 21.409 28.608 22.066 28.866 22.412 solid black
+edge a481 920 4 27.935 21.027 28.178 21.217 28.547 21.506 28.79 21.697 solid black
+edge a481 921 4 27.966 21.009 30.402 22.545 48.031 33.664 50.447 35.188 solid black
+edge a481 922 4 28.067 20.771 28.255 20.74 28.482 20.702 28.669 20.672 solid black
+edge a482 922 4 27.787 17.549 28.036 18.16 28.687 19.756 28.937 20.368 solid black
+edge a482 10098 4 28.077 17.306 28.235 17.306 28.417 17.306 28.58 17.306 solid black
+edge a482 10099 4 27.987 17.139 28.202 17.019 28.493 16.857 28.714 16.735 solid black
+edge a482 10100 4 27.886 17.084 28.14 16.802 28.576 16.317 28.832 16.033 solid black
+edge a482 10101 4 27.987 17.472 28.202 17.592 28.493 17.754 28.714 17.876 solid black
+edge a501 830 4 28.032 46.896 29.489 46.398 35.132 44.469 36.574 43.976 solid black
+edge a501 903 4 27.791 46.772 28.042 46.185 28.681 44.692 28.932 44.104 solid black
+edge a501 927 4 27.853 46.784 28.113 46.422 28.615 45.724 28.873 45.365 solid black
+edge a501 28 4 28.054 47.105 31.668 48 60.846 55.228 64.395 56.107 solid black
+edge a501 928 4 28.045 47.113 28.243 47.169 28.489 47.237 28.686 47.292 solid black
+edge a501 929 4 28.045 46.914 28.243 46.859 28.489 46.791 28.686 46.736 solid black
+edge 1679 1680 4 28.085 62.528 28.214 62.528 28.359 62.528 28.497 62.528 solid black
+edge a513 94 4 29.277 64.604 29.524 64.81 29.905 65.128 30.15 65.332 solid black
+edge a513 95 4 29.394 64.502 29.592 64.557 29.837 64.626 30.034 64.68 solid black
+edge a513 96 4 29.394 64.303 29.592 64.248 29.837 64.18 30.034 64.125 solid black
+edge a513 99 4 29.277 64.202 29.524 63.996 29.905 63.677 30.15 63.473 solid black
+edge a520 621 4 29.153 46.131 29.409 46.657 30.014 47.903 30.268 48.428 solid black
+edge a520 873 4 29.382 46.005 32.136 46.93 50.465 53.083 53.188 53.998 solid black
+edge a520 934 4 29.335 46.055 29.562 46.181 29.871 46.353 30.095 46.478 solid black
+edge a520 935 4 29.426 45.889 29.61 45.889 29.828 45.889 30.009 45.889 solid black
+edge a520 936 4 29.335 45.722 29.562 45.596 29.871 45.424 30.095 45.3 solid black
+edge a512 620 4 29.224 20.085 30.416 21.499 36.895 29.187 38.075 30.587 solid black
+edge a512 930 4 29.296 20.049 29.536 20.222 29.891 20.478 30.13 20.65 solid black
+edge a512 931 4 29.415 19.924 29.604 19.955 29.831 19.992 30.017 20.023 solid black
+edge a512 932 4 29.369 19.731 29.58 19.648 29.851 19.542 30.06 19.46 solid black
+edge a512 933 4 29.259 19.65 29.51 19.412 29.916 19.027 30.166 18.79 solid black
+edge 1680 1683 4 29.433 62.528 29.562 62.528 29.708 62.528 29.846 62.528 solid black
+edge a644 835 4 30.595 6.5447 31.941 7.8994 39.344 15.349 40.691 16.705 solid black
+edge a644 948 4 30.575 6.5547 30.822 6.8399 31.247 7.3327 31.491 7.616 solid black
+edge a644 949 4 30.773 6.3333 30.94 6.3333 31.134 6.3333 31.3 6.3333 solid black
+edge a644 950 4 30.678 6.1631 30.893 6.0387 31.183 5.8708 31.395 5.7477 solid black
+edge a644 951 4 30.575 6.112 30.822 5.8268 31.247 5.334 31.491 5.0507 solid black
+edge a633 847 4 30.564 30.312 30.813 29.994 31.259 29.425 31.504 29.111 solid black
+edge a633 870 4 30.543 30.772 30.792 31.131 31.27 31.824 31.519 32.185 solid black
+edge a633 937 4 30.745 30.437 30.929 30.384 31.152 30.319 31.334 30.267 solid black
+edge a633 938 4 30.616 30.743 30.851 30.948 31.215 31.263 31.449 31.467 solid black
+edge a633 939 4 30.745 30.646 30.929 30.699 31.152 30.764 31.334 30.817 solid black
+edge a633 940 4 30.716 30.41 32.15 29.838 37.804 27.586 39.227 27.019 solid black
+edge a635 943 4 30.575 66.499 30.822 66.784 31.247 67.277 31.491 67.56 solid black
+edge a635 944 4 30.678 66.448 30.893 66.572 31.183 66.74 31.395 66.863 solid black
+edge a635 945 4 30.773 66.278 30.94 66.278 31.134 66.278 31.3 66.278 solid black
+edge a635 946 4 30.678 66.108 30.893 65.983 31.183 65.815 31.395 65.692 solid black
+edge a635 947 4 30.575 66.056 30.822 65.771 31.247 65.278 31.491 64.995 solid black
+edge 1683 1684 4 30.783 62.528 30.895 62.528 31.019 62.528 31.138 62.528 solid black
+edge a674 835 4 31.965 11.466 33.341 12.305 39.265 15.918 40.624 16.747 solid black
+edge a674 957 4 32.039 11.396 32.223 11.449 32.446 11.514 32.628 11.567 solid black
+edge a674 958 4 32.039 11.187 32.223 11.134 32.446 11.069 32.628 11.017 solid black
+edge a674 959 4 31.91 11.091 32.146 10.886 32.509 10.57 32.744 10.366 solid black
+edge a674 960 4 31.838 11.062 32.086 10.702 32.564 10.009 32.813 9.6485 solid black
+edge a674 961 4 31.91 11.493 32.146 11.698 32.509 12.013 32.744 12.217 solid black
+edge a677 830 4 31.91 48.242 32.777 47.483 35.82 44.816 36.682 44.062 solid black
+edge a677 831 4 31.714 48.696 31.899 50.01 32.753 56.088 32.938 57.402 solid black
+edge a677 962 4 31.87 48.666 32.116 48.951 32.541 49.444 32.786 49.727 solid black
+edge a677 963 4 31.973 48.615 32.187 48.739 32.477 48.907 32.69 49.03 solid black
+edge a677 964 4 32.067 48.444 32.234 48.444 32.428 48.444 32.594 48.444 solid black
+edge a677 965 4 31.973 48.274 32.187 48.15 32.477 47.982 32.69 47.859 solid black
+edge a677 966 4 31.87 48.223 32.116 47.938 32.541 47.445 32.786 47.162 solid black
+edge a677 967 4 31.815 48.208 32.063 47.777 32.586 46.868 32.835 46.435 solid black
+edge a677 968 4 31.815 48.681 32.063 49.112 32.586 50.021 32.835 50.454 solid black
+edge a649 835 4 31.88 7.2979 33.098 8.5969 39.477 15.398 40.699 16.701 solid black
+edge a649 952 4 32.067 7.0833 32.234 7.0833 32.428 7.0833 32.594 7.0833 solid black
+edge a649 953 4 31.973 6.9131 32.187 6.7887 32.477 6.6208 32.69 6.4977 solid black
+edge a649 954 4 31.87 6.862 32.116 6.5768 32.541 6.084 32.786 5.8007 solid black
+edge a649 955 4 31.815 6.8468 32.063 6.4158 32.586 5.5071 32.835 5.0735 solid black
+edge 1684 1685 4 32.078 62.528 32.19 62.528 32.313 62.528 32.432 62.528 solid black
+edge a711 835 4 33.251 21.822 34.479 21.035 39.416 17.87 40.631 17.091 solid black
+edge a711 924 4 33.164 22.221 33.41 22.507 33.836 22.999 34.08 23.283 solid black
+edge a711 969 4 33.267 22.17 33.482 22.295 33.771 22.463 33.984 22.586 solid black
+edge a711 970 4 33.25 21.82 33.975 21.35 35.921 20.087 36.639 19.621 solid black
+edge a711 677 4 33.362 22 33.528 22 33.723 22 33.888 22 solid black
+edge 1685 1686 4 33.372 62.528 33.484 62.528 33.608 62.528 33.726 62.528 solid black
+edge a737 835 4 34.579 20.041 35.696 19.489 39.496 17.611 40.599 17.066 solid black
+edge a737 915 4 34.431 19.966 34.68 19.618 35.151 18.962 35.399 18.616 solid black
+edge a737 971 4 34.334 20.443 34.702 21.814 36.477 28.438 36.844 29.808 solid black
+edge a737 972 4 34.561 20.365 34.776 20.489 35.066 20.657 35.278 20.78 solid black
+edge a737 974 4 34.656 20.194 34.823 20.194 35.017 20.194 35.183 20.194 solid black
+edge 1686 1687 4 34.666 62.528 34.778 62.528 34.902 62.528 35.021 62.528 solid black
+edge a753 873 4 35.783 36.881 37.693 38.737 51.416 52.062 53.31 53.901 solid black
+edge a753 975 4 35.861 36.5 36.088 36.374 36.397 36.202 36.621 36.078 solid black
+edge a753 976 4 35.761 36.445 36.017 36.16 36.46 35.667 36.715 35.384 solid black
+edge a753 977 4 35.952 36.667 36.136 36.667 36.354 36.667 36.535 36.667 solid black
+edge a798 835 4 35.95 16.595 36.94 16.659 39.549 16.829 40.526 16.892 solid black
+edge a798 886 4 35.717 16.799 35.975 17.183 36.493 17.95 36.753 18.337 solid black
+edge a798 970 4 35.675 16.81 35.928 17.351 36.543 18.66 36.797 19.203 solid black
+edge a798 983 4 35.952 16.561 36.136 16.558 36.354 16.553 36.535 16.549 solid black
+edge a798 984 4 35.861 16.73 36.086 16.85 36.393 17.015 36.617 17.134 solid black
+edge a798 985 4 35.849 16.741 37.393 17.663 44.692 22.024 46.228 22.941 solid black
+edge a769 835 4 35.755 11.027 36.589 11.981 39.876 15.742 40.709 16.696 solid black
+edge a769 819 4 35.828 10.995 36.068 11.165 36.417 11.413 36.654 11.581 solid black
+edge a769 917 4 35.675 11.046 35.928 11.587 36.543 12.897 36.797 13.439 solid black
+edge a769 980 4 35.927 10.719 36.122 10.673 36.361 10.616 36.555 10.57 solid black
+edge a769 981 4 35.809 10.609 36.053 10.416 36.422 10.124 36.665 9.931 solid black
+edge a769 982 4 35.73 10.579 35.988 10.23 36.481 9.5661 36.74 9.2157 solid black
+edge a758 830 4 35.591 32.653 35.769 34.166 36.702 42.091 36.881 43.61 solid black
+edge a758 841 4 35.918 32.299 38.64 31.503 56.113 26.398 58.792 25.615 solid black
+edge a758 897 4 35.761 32.622 36.017 32.905 36.46 33.393 36.715 33.674 solid black
+edge a758 971 4 35.699 32.165 35.958 31.714 36.518 30.74 36.775 30.291 solid black
+edge a758 978 4 35.809 32.207 36.053 32.014 36.422 31.721 36.665 31.528 solid black
+edge a758 979 4 35.927 32.316 36.122 32.27 36.361 32.214 36.555 32.168 solid black
+edge 1687 1688 4 35.959 62.528 36.088 62.528 36.234 62.528 36.372 62.528 solid black
+edge a815 620 4 36.955 38.221 37.159 37.06 38.012 32.212 38.215 31.054 solid black
+edge a815 881 4 37.234 38.332 38.381 37.835 42.252 36.158 43.39 35.665 solid black
+edge a815 990 4 37.301 38.468 37.484 38.466 37.702 38.464 37.884 38.462 solid black
+edge a815 991 4 37.21 38.636 37.435 38.758 37.742 38.926 37.965 39.048 solid black
+edge a815 992 4 37.268 38.372 39.685 37.694 53.597 33.794 55.983 33.125 solid black
+edge a812 873 4 37.301 54.667 39.559 54.59 50.929 54.2 53.15 54.124 solid black
+edge a812 893 4 37.169 54.489 38.248 53.689 42.39 50.616 43.456 49.825 solid black
+edge a812 986 4 37.268 54.581 37.467 54.526 37.712 54.458 37.909 54.403 solid black
+edge a812 987 4 37.152 54.479 37.399 54.273 37.78 53.955 38.025 53.751 solid black
+edge a812 988 4 37.294 54.72 39.886 54.986 54.802 56.518 57.361 56.781 solid black
+edge a812 989 4 37.268 54.78 37.467 54.835 37.712 54.903 37.909 54.958 solid black
+edge a1025 45 4 37.164 64.614 37.411 64.821 37.784 65.132 38.025 65.332 solid black
+edge a1025 47 4 37.315 64.515 37.504 64.568 37.728 64.63 37.909 64.681 solid black
+edge a1025 49 4 37.315 64.29 37.504 64.238 37.728 64.176 37.909 64.125 solid black
+edge a1025 50 4 37.164 64.191 37.411 63.985 37.784 63.674 38.025 63.473 solid black
+edge 1688 1689 4 37.308 62.528 37.437 62.528 37.583 62.528 37.72 62.528 solid black
+edge a843 881 4 38.443 29.221 39.276 30.219 42.682 34.299 43.52 35.304 solid black
+edge a843 940 4 38.402 28.766 38.651 28.36 39.16 27.53 39.409 27.124 solid black
+edge a843 992 4 38.628 29.082 40.965 29.603 53.673 32.435 55.974 32.948 solid black
+edge a843 993 4 38.572 28.852 38.776 28.756 39.04 28.631 39.243 28.535 solid black
+edge a843 994 4 38.467 28.781 38.71 28.526 39.109 28.106 39.35 27.853 solid black
+edge a843 995 4 38.527 29.184 38.751 29.338 39.068 29.555 39.29 29.708 solid black
+edge a843 996 4 38.644 29.041 38.814 29.06 39.013 29.081 39.181 29.099 solid black
+edge a844 835 4 38.287 40.622 38.551 38.227 40.61 19.565 40.874 17.17 solid black
+edge a844 997 4 38.45 41.096 38.696 41.382 39.121 41.874 39.366 42.158 solid black
+edge a844 998 4 38.553 41.045 38.768 41.17 39.057 41.338 39.27 41.461 solid black
+edge a844 999 4 38.647 40.875 38.814 40.875 39.008 40.875 39.174 40.875 solid black
+edge a844 1000 4 38.553 40.705 38.765 40.582 39.049 40.417 39.261 40.295 solid black
+edge a844 1001 4 38.532 41.057 39.927 41.986 46.24 46.19 47.64 47.122 solid black
+edge a844 1002 4 38.395 41.112 38.643 41.543 39.166 42.451 39.415 42.885 solid black
+edge 1689 1691 4 38.658 62.528 38.77 62.528 38.894 62.528 39.012 62.528 solid black
+edge a926 835 4 39.582 5.1265 39.757 6.6936 40.699 15.103 40.874 16.667 solid black
+edge a926 1003 4 39.911 4.7755 40.105 4.7217 40.343 4.6554 40.538 4.6013 solid black
+edge a926 1004 4 39.794 4.6739 40.038 4.4704 40.414 4.1574 40.658 3.9532 solid black
+edge a926 1005 4 39.794 5.0761 40.038 5.2796 40.414 5.5926 40.658 5.7968 solid black
+edge a926 1006 4 39.911 4.9745 40.105 5.0283 40.343 5.0946 40.538 5.1487 solid black
+edge 1691 1693 4 39.951 62.528 40.08 62.528 40.225 62.528 40.363 62.528 solid black
+edge a964 873 4 41.287 52.455 43.161 52.708 51.317 53.812 53.157 54.061 solid black
+edge a964 893 4 41.117 52.19 41.641 51.675 42.975 50.361 43.495 49.848 solid black
+edge a964 894 4 40.945 52.152 41.154 50.946 42.052 45.765 42.261 44.558 solid black
+edge a964 1015 4 41.27 52.487 41.473 52.533 41.725 52.59 41.929 52.637 solid black
+edge a964 1016 4 41.153 52.594 41.406 52.787 41.797 53.085 42.051 53.279 solid black
+edge a964 1017 4 41.172 52.218 41.421 52.048 41.787 51.798 42.035 51.629 solid black
+edge a1048 873 4 41 22.456 42.111 25.264 52.326 51.077 53.43 53.867 solid black
+edge a1048 1039 4 41.311 22.099 41.509 22.046 41.744 21.983 41.935 21.932 solid black
+edge a1048 1041 4 41.159 22.002 41.415 21.796 41.806 21.483 42.058 21.281 solid black
+edge a1048 1042 4 41.311 22.318 41.509 22.371 41.744 22.433 41.935 22.485 solid black
+edge a958 889 4 40.966 41.097 41.2 42.011 42.006 45.166 42.24 46.082 solid black
+edge a958 1010 4 41.225 40.987 42.007 41.325 43.991 42.183 44.78 42.524 solid black
+edge a958 1011 4 41.263 40.944 41.469 40.999 41.727 41.068 41.935 41.123 solid black
+edge a958 1012 4 41.263 40.751 41.469 40.696 41.727 40.627 41.935 40.571 solid black
+edge a958 1013 4 41.146 40.651 41.402 40.446 41.802 40.126 42.058 39.92 solid black
+edge a958 1014 4 41.071 40.621 41.341 40.261 41.865 39.56 42.135 39.199 solid black
+edge a956 881 4 41.274 35.022 41.815 35.134 42.812 35.342 43.347 35.453 solid black
+edge a956 985 4 41.017 34.703 41.741 33.175 45.675 24.879 46.398 23.352 solid black
+edge a956 1007 4 41.22 35.089 41.448 35.193 41.754 35.333 41.983 35.437 solid black
+edge a956 1008 4 41.289 34.914 41.482 34.899 41.715 34.88 41.909 34.865 solid black
+edge a956 1009 4 41.186 34.77 41.428 34.622 41.773 34.409 42.016 34.26 solid black
+edge a965 873 4 41.266 50.901 43.106 51.383 51.358 53.543 53.173 54.019 solid black
+edge a965 1017 4 41.22 50.951 41.448 51.054 41.754 51.194 41.983 51.298 solid black
+edge a965 1018 4 41.14 50.608 41.396 50.394 41.802 50.057 42.061 49.842 solid black
+edge a965 1019 4 41.068 50.578 41.338 50.209 41.869 49.485 42.138 49.116 solid black
+edge a965 1020 4 41.029 50.564 41.296 50.057 41.913 48.883 42.179 48.378 solid black
+edge a965 1022 4 41.25 50.693 42.442 50.305 46.359 49.033 47.561 48.643 solid black
+edge 1693 1694 4 41.3 62.528 41.444 62.528 41.608 62.528 41.762 62.528 solid black
+edge a992 985 4 42.607 25.135 43.384 24.733 45.439 23.667 46.213 23.267 solid black
+edge a992 1034 4 42.474 25.518 42.743 25.878 43.268 26.579 43.538 26.94 solid black
+edge a992 1035 4 42.549 25.488 42.805 25.693 43.204 26.013 43.461 26.219 solid black
+edge a992 1036 4 42.666 25.388 42.872 25.443 43.13 25.512 43.338 25.568 solid black
+edge a992 1037 4 42.666 25.195 42.872 25.14 43.13 25.071 43.338 25.016 solid black
+edge a992 1038 4 42.688 25.251 44.087 25.1 48.907 24.583 50.325 24.431 solid black
+edge a1055 881 4 42.429 33.047 42.696 33.565 43.32 34.777 43.585 35.291 solid black
+edge a1055 992 4 42.759 32.813 44.903 32.847 53.974 32.99 55.951 33.022 solid black
+edge a1055 1049 4 42.63 32.98 42.863 33.104 43.175 33.271 43.403 33.393 solid black
+edge a1055 1051 4 42.756 32.806 42.934 32.806 43.136 32.806 43.309 32.806 solid black
+edge a990 881 4 42.327 19.738 42.491 21.616 43.521 33.401 43.685 35.276 solid black
+edge a990 1027 4 42.659 19.595 42.87 19.66 43.137 19.742 43.349 19.807 solid black
+edge a990 1028 4 42.673 19.402 42.876 19.356 43.127 19.299 43.331 19.252 solid black
+edge a990 1029 4 42.555 19.295 42.809 19.101 43.199 18.804 43.454 18.61 solid black
+edge a1052 1043 4 42.756 63.278 42.934 63.278 43.136 63.278 43.309 63.278 solid black
+edge a987 893 4 42.38 45.302 42.624 46.098 43.387 48.594 43.632 49.391 solid black
+edge a987 1010 4 42.539 44.856 43.066 44.407 44.339 43.323 44.87 42.871 solid black
+edge a987 1023 4 42.434 45.291 42.701 45.777 43.308 46.884 43.576 47.372 solid black
+edge a987 1024 4 42.479 45.281 42.748 45.627 43.26 46.286 43.53 46.633 solid black
+edge a987 1025 4 42.562 45.249 42.815 45.44 43.199 45.729 43.452 45.919 solid black
+edge a987 1026 4 42.408 45.299 42.667 45.91 43.344 47.506 43.604 48.118 solid black
+edge a991 732 4 42.485 42.278 42.754 41.948 43.259 41.329 43.527 40.999 solid black
+edge a991 78 4 42.53 42.705 42.792 42.944 43.221 43.335 43.482 43.573 solid black
+edge a991 1031 4 42.641 42.626 42.859 42.709 43.144 42.816 43.364 42.899 solid black
+edge a991 1032 4 42.684 42.44 42.881 42.409 43.12 42.371 43.318 42.34 solid black
+edge a991 1033 4 42.575 42.313 42.823 42.14 43.19 41.887 43.438 41.715 solid black
+edge a991 427 4 42.688 42.456 44.95 42.199 56.535 40.88 58.765 40.626 solid black
+edge 1694 1696 4 42.703 62.528 42.846 62.528 43.011 62.528 43.165 62.528 solid black
+edge a1077 1001 4 46.688 45.664 46.958 46.025 47.474 46.715 47.743 47.075 solid black
+edge a1077 1022 4 46.623 45.674 46.885 46.253 47.544 47.708 47.806 48.286 solid black
+edge a1077 1052 4 46.922 45.54 47.12 45.593 47.354 45.656 47.546 45.707 solid black
+edge a1077 1054 4 46.922 45.321 47.12 45.268 47.354 45.206 47.546 45.154 solid black
+edge a1077 1055 4 46.77 45.637 47.026 45.842 47.417 46.156 47.669 46.358 solid black
+edge 1699 1700 4 46.911 62.528 47.055 62.528 47.219 62.528 47.373 62.528 solid black
+edge a1086 10016 4 70.768 31.641 70.952 31.591 71.17 31.533 71.354 31.484 solid black
+edge a1086 10017 4 70.616 31.544 70.867 31.342 71.248 31.036 71.501 30.834 solid black
+edge a1086 10018 4 70.768 31.859 70.952 31.909 71.17 31.967 71.354 32.016 solid black
+edge a1086 1068 4 70.616 31.956 70.872 32.162 71.263 32.475 71.515 32.678 solid black
+edge a1114 1010 4 43.815 39.743 44.076 40.333 44.74 41.832 45.002 42.423 solid black
+edge a1114 427 4 44.157 39.532 46.433 39.691 56.667 40.41 58.762 40.557 solid black
+edge a1114 1054 4 43.883 39.732 44.569 40.637 47.065 43.933 47.744 44.829 solid black
+edge a1114 1056 4 44.084 39.641 47.089 40.765 67.133 48.265 70.014 49.343 solid black
+edge a1114 1057 4 43.933 39.719 44.196 39.974 44.629 40.394 44.89 40.647 solid black
+edge a1114 1058 4 44.065 39.656 44.286 39.752 44.567 39.874 44.782 39.968 solid black
+edge 1696 1697 4 44.106 62.528 44.249 62.528 44.414 62.528 44.568 62.528 solid black
+edge a1131 841 4 45.478 20.064 47.469 20.858 56.928 24.632 58.811 25.384 solid black
+edge a1131 985 4 45.218 20.162 45.479 20.758 46.146 22.277 46.407 22.869 solid black
+edge a1131 1059 4 45.247 20.156 45.516 20.624 46.11 21.659 46.377 22.125 solid black
+edge a1131 455 4 45.488 20.057 47.363 20.754 55.647 23.835 57.406 24.489 solid black
+edge a1131 1060 4 45.565 19.908 47.701 19.868 56.72 19.698 58.736 19.66 solid black
+edge 1697 1699 4 45.508 62.528 45.652 62.528 45.816 62.528 45.97 62.528 solid black
+edge a1209 1038 4 48.21 26.005 48.755 25.654 49.91 24.91 50.442 24.568 solid black
+edge a1209 1061 4 48.241 26.02 48.474 25.896 48.786 25.729 49.014 25.607 solid black
+edge a1209 1062 4 48.128 26.422 48.395 26.707 48.849 27.193 49.112 27.474 solid black
+edge a1209 1063 4 48.241 26.368 48.474 26.493 48.786 26.66 49.014 26.782 solid black
+edge a1209 1064 4 48.367 26.194 48.545 26.194 48.747 26.194 48.919 26.194 solid black
+edge 1700 1701 4 48.314 62.528 48.457 62.528 48.622 62.528 48.776 62.528 solid black
+edge a1257 921 4 49.513 36.784 49.783 36.467 50.266 35.897 50.532 35.584 solid black
+edge a1257 992 4 49.638 36.832 50.818 36.161 54.922 33.829 56.045 33.19 solid black
+edge a1257 1074 4 49.575 37.22 49.832 37.426 50.222 37.739 50.475 37.941 solid black
+edge a1257 1075 4 49.728 37.123 49.925 37.176 50.16 37.239 50.351 37.29 solid black
+edge a1257 1076 4 49.728 36.904 49.925 36.852 50.16 36.789 50.351 36.738 solid black
+edge a1257 1077 4 49.493 37.248 49.763 37.609 50.279 38.299 50.548 38.658 solid black
+edge a1252 992 4 49.757 32.116 51.04 32.294 54.772 32.812 55.962 32.977 solid black
+edge a1252 1070 4 49.643 31.882 49.877 31.757 50.188 31.59 50.416 31.468 solid black
+edge a1252 1071 4 49.531 32.283 49.798 32.569 50.252 33.054 50.515 33.335 solid black
+edge a1252 1072 4 49.643 32.23 49.877 32.354 50.188 32.521 50.416 32.643 solid black
+edge a1252 1073 4 49.77 32.056 49.947 32.056 50.15 32.056 50.322 32.056 solid black
+edge a1240 1038 4 49.404 28.197 49.655 27.471 50.387 25.355 50.636 24.633 solid black
+edge a1240 1068 4 49.746 28.529 52.589 29.09 68.696 32.27 71.382 32.8 solid black
+edge a1240 1065 4 49.584 28.236 51.116 27.04 58.787 21.049 60.286 19.879 solid black
+edge a1240 1066 4 49.482 28.208 49.752 27.817 50.289 27.041 50.558 26.652 solid black
+edge a1240 1067 4 49.694 28.303 49.907 28.223 50.171 28.124 50.378 28.046 solid black
+edge a1240 1069 4 49.556 28.228 49.817 27.99 50.233 27.611 50.491 27.376 solid black
+edge 1701 1702 4 49.716 62.528 49.86 62.528 50.025 62.528 50.178 62.528 solid black
+edge a1272 1078 4 50.934 65.006 51.201 65.291 51.654 65.776 51.918 66.058 solid black
+edge a1272 1079 4 51.046 64.952 51.279 65.076 51.591 65.243 51.819 65.365 solid black
+edge a1272 1080 4 51.172 64.778 51.35 64.778 51.553 64.778 51.725 64.778 solid black
+edge a1272 1081 4 51.046 64.604 51.279 64.479 51.591 64.313 51.819 64.191 solid black
+edge a1272 1082 4 50.934 64.55 51.201 64.265 51.654 63.78 51.918 63.498 solid black
+edge 1702 1703 4 51.119 62.528 51.263 62.528 51.427 62.528 51.581 62.528 solid black
+edge a1320 873 4 52.133 18.255 52.252 21.307 53.398 50.811 53.516 53.857 solid black
+edge a1320 1083 4 52.449 18.174 52.682 18.299 52.994 18.465 53.222 18.587 solid black
+edge a1320 1084 4 52.575 18 52.753 18 52.955 18 53.128 18 solid black
+edge a1320 1085 4 52.449 17.826 52.682 17.701 52.994 17.535 53.222 17.413 solid black
+edge a1320 1086 4 52.337 17.772 52.603 17.487 53.057 17.002 53.32 16.72 solid black
+edge 1703 1704 4 52.522 62.528 52.665 62.528 52.83 62.528 52.984 62.528 solid black
+edge a1333 992 4 53.821 31.412 54.368 31.764 55.533 32.514 56.061 32.854 solid black
+edge a1333 689 4 53.852 31.048 54.088 30.922 54.405 30.752 54.634 30.63 solid black
+edge a1333 1091 4 53.739 30.994 54.006 30.709 54.46 30.224 54.723 29.942 solid black
+edge a1333 1092 4 53.852 31.396 54.085 31.521 54.396 31.687 54.625 31.809 solid black
+edge a1333 1093 4 53.978 31.222 54.156 31.222 54.358 31.222 54.53 31.222 solid black
+edge a1330 841 4 53.856 22.756 54.862 23.281 57.876 24.855 58.838 25.358 solid black
+edge a1330 1087 4 53.739 22.811 54.006 23.096 54.46 23.582 54.723 23.863 solid black
+edge a1330 1088 4 53.978 22.583 54.156 22.583 54.358 22.583 54.53 22.583 solid black
+edge a1330 1089 4 53.852 22.409 54.085 22.285 54.396 22.118 54.625 21.996 solid black
+edge a1330 1090 4 53.739 22.356 54.006 22.07 54.46 21.585 54.723 21.304 solid black
+edge 1704 1706 4 53.924 62.528 54.068 62.528 54.233 62.528 54.387 62.528 solid black
+edge a1411 992 4 54.997 28.167 55.236 29.034 56.025 31.911 56.263 32.778 solid black
+edge a1411 1068 4 55.328 28.034 57.632 28.713 69.195 32.119 71.398 32.768 solid black
+edge a1411 1098 4 55.213 27.72 55.461 27.548 55.819 27.3 56.062 27.131 solid black
+edge a1411 1099 4 55.305 28.058 55.517 28.138 55.781 28.237 55.988 28.315 solid black
+edge a1411 1100 4 55.365 27.848 55.55 27.818 55.764 27.784 55.943 27.756 solid black
+edge a1397 992 4 54.965 23.583 55.161 24.939 56.098 31.413 56.295 32.776 solid black
+edge a1397 1094 4 55.142 23.106 55.409 22.82 55.862 22.335 56.126 22.054 solid black
+edge a1397 1095 4 55.076 23.097 55.346 22.664 55.917 21.748 56.186 21.317 solid black
+edge a1397 1096 4 55.254 23.507 55.487 23.632 55.799 23.799 56.027 23.921 solid black
+edge a1397 1097 4 55.254 23.159 55.487 23.035 55.799 22.868 56.027 22.746 solid black
+edge 1706 1707 4 55.327 62.528 55.471 62.528 55.635 62.528 55.789 62.528 solid black
+edge a1467 1108 4 56.545 65.006 56.811 65.291 57.265 65.776 57.528 66.058 solid black
+edge a1467 1109 4 56.657 64.952 56.89 65.076 57.202 65.243 57.43 65.365 solid black
+edge a1467 1110 4 56.783 64.778 56.961 64.778 57.163 64.778 57.336 64.778 solid black
+edge a1467 1111 4 56.657 64.604 56.89 64.479 57.202 64.313 57.43 64.191 solid black
+edge a1467 1112 4 56.545 64.55 56.811 64.265 57.265 63.78 57.528 63.498 solid black
+edge a1464 888 4 56.752 58.002 57.303 57.876 58.263 57.657 58.781 57.539 solid black
+edge a1464 988 4 56.57 57.88 56.832 57.641 57.252 57.259 57.509 57.025 solid black
+edge a1464 1105 4 56.783 58.097 56.961 58.097 57.163 58.097 57.336 58.097 solid black
+edge a1464 1106 4 56.657 58.271 56.89 58.396 57.202 58.562 57.43 58.684 solid black
+edge a1464 1107 4 56.728 58.225 57.276 58.401 58.258 58.717 58.783 58.886 solid black
+edge a1463 455 4 56.57 23.55 56.832 23.789 57.252 24.172 57.509 24.406 solid black
+edge a1463 1101 4 56.707 23.475 56.92 23.555 57.184 23.654 57.391 23.732 solid black
+edge a1463 1102 4 56.768 23.264 56.953 23.235 57.167 23.201 57.346 23.173 solid black
+edge a1463 1103 4 56.615 23.137 56.864 22.965 57.221 22.717 57.465 22.548 solid black
+edge a1463 1104 4 56.518 23.105 56.788 22.773 57.284 22.164 57.552 21.835 solid black
+edge 1707 1708 4 56.73 62.528 56.873 62.528 57.038 62.528 57.192 62.528 solid black
+edge a1497 841 4 57.786 18.999 58.006 20.059 58.864 24.198 59.085 25.263 solid black
+edge a1497 1060 4 58.032 18.941 58.276 19.099 58.62 19.32 58.859 19.474 solid black
+edge a1497 1120 4 58.096 18.596 58.315 18.503 58.592 18.385 58.806 18.294 solid black
+edge a1497 1121 4 57.966 18.528 58.23 18.273 58.66 17.861 58.919 17.612 solid black
+edge a1497 1122 4 58.178 18.798 58.36 18.818 58.568 18.841 58.743 18.86 solid black
+edge a1485 888 4 57.882 55.408 58.152 55.849 58.723 56.782 58.991 57.221 solid black
+edge a1485 1113 4 58.144 55.057 58.341 55.004 58.576 54.942 58.768 54.89 solid black
+edge a1485 1114 4 57.992 54.96 58.248 54.755 58.638 54.442 58.891 54.239 solid black
+edge a1485 1115 4 58.144 55.276 58.341 55.329 58.576 55.392 58.768 55.443 solid black
+edge a1499 429 4 58.129 43.295 60.032 42.709 68.228 40.184 70.014 39.634 solid black
+edge a1499 427 4 57.854 43.175 58.119 42.64 58.753 41.359 59.018 40.824 solid black
+edge a1499 192 4 58.06 43.591 58.296 43.717 58.613 43.887 58.842 44.009 solid black
+edge a1499 193 4 58.186 43.417 58.372 43.417 58.584 43.417 58.761 43.417 solid black
+edge a1499 428 4 58.06 43.243 58.296 43.116 58.613 42.947 58.842 42.824 solid black
+edge a1499 430 4 57.882 43.653 58.152 44.086 58.723 45.002 58.991 45.433 solid black
+edge a1499 431 4 57.947 43.644 58.216 43.931 58.673 44.42 58.936 44.701 solid black
+edge a1491 1107 4 57.929 60.423 58.199 60.105 58.682 59.536 58.948 59.223 solid black
+edge a1491 1116 4 58.173 60.588 60.136 60.296 68.113 59.111 69.971 58.835 solid black
+edge a1491 1117 4 57.992 60.859 58.248 61.065 58.638 61.378 58.891 61.58 solid black
+edge a1491 1118 4 58.144 60.762 58.341 60.815 58.576 60.878 58.768 60.929 solid black
+edge a1491 1119 4 58.144 60.543 58.341 60.491 58.576 60.428 58.768 60.377 solid black
+edge 1708 1716 4 58.132 62.528 58.276 62.528 58.441 62.528 58.595 62.528 solid black
+edge a1670 1065 4 59.249 16.895 59.512 17.462 60.164 18.869 60.427 19.437 solid black
+edge a1670 1123 4 59.462 16.827 59.695 16.951 60.007 17.118 60.235 17.24 solid black
+edge a1670 1124 4 59.589 16.653 59.766 16.653 59.969 16.653 60.141 16.653 solid black
+edge a1670 1125 4 59.462 16.479 59.695 16.354 60.007 16.188 60.235 16.066 solid black
+edge a1670 1126 4 59.35 16.425 59.617 16.14 60.07 15.655 60.334 15.373 solid black
+edge a1670 1127 4 59.35 16.881 59.617 17.166 60.07 17.651 60.334 17.933 solid black
+edge a1537 100 4 59.35 65.006 59.618 65.292 60.076 65.782 60.338 66.062 solid black
+edge a1537 101 4 59.462 64.952 59.699 65.078 60.016 65.248 60.245 65.37 solid black
+edge a1537 102 4 59.589 64.778 59.774 64.778 59.987 64.778 60.164 64.778 solid black
+edge a1537 103 4 59.462 64.604 59.699 64.477 60.016 64.308 60.245 64.185 solid black
+edge a1537 104 4 59.35 64.55 59.618 64.263 60.076 63.774 60.338 63.493 solid black
+edge 1716 1718 4 59.535 62.528 59.679 62.528 59.843 62.528 59.997 62.528 solid black
+edge a1787 1128 4 60.714 67.261 60.985 67.623 61.501 68.313 61.77 68.672 solid black
+edge a1787 1129 4 60.797 67.234 61.053 67.44 61.444 67.753 61.696 67.955 solid black
+edge a1787 1130 4 60.949 67.137 61.146 67.19 61.381 67.253 61.573 67.304 solid black
+edge a1787 1131 4 60.949 66.918 61.146 66.866 61.381 66.803 61.573 66.752 solid black
+edge a1787 1132 4 60.797 66.821 61.053 66.616 61.444 66.303 61.696 66.1 solid black
+edge a1787 1133 4 60.714 66.794 60.985 66.433 61.501 65.743 61.77 65.384 solid black
+edge 1718 1720 4 60.938 62.528 61.082 62.528 61.246 62.528 61.4 62.528 solid black
+edge a1890 1834 4 62.2 69.859 62.456 70.065 62.847 70.378 63.099 70.58 solid black
+edge a1890 15085 4 62.352 69.762 62.536 69.812 62.753 69.87 62.938 69.919 solid black
+edge a1890 15086 4 62.352 69.543 62.536 69.494 62.753 69.436 62.938 69.387 solid black
+edge a1890 15087 4 62.2 69.446 62.451 69.245 62.832 68.939 63.085 68.737 solid black
+edge 1720 1721 4 62.341 62.528 62.484 62.528 62.649 62.528 62.803 62.528 solid black
+edge a2049 28 4 63.517 57.852 63.788 57.487 64.31 56.784 64.579 56.422 solid black
+edge a2049 27 4 63.67 58.257 63.907 58.384 64.224 58.553 64.453 58.676 solid black
+edge a2049 29 4 63.797 58.083 63.982 58.083 64.195 58.083 64.372 58.083 solid black
+edge 1721 1725 4 63.743 62.528 63.887 62.528 64.052 62.528 64.205 62.528 solid black
+edge a2088 1134 4 66.364 65.006 66.63 65.291 67.084 65.776 67.347 66.058 solid black
+edge a2088 1135 4 66.476 64.952 66.709 65.076 67.021 65.243 67.249 65.365 solid black
+edge a2088 1136 4 66.602 64.778 66.78 64.778 66.982 64.778 67.155 64.778 solid black
+edge a2088 1137 4 66.476 64.604 66.709 64.479 67.021 64.313 67.249 64.191 solid black
+edge a2088 1138 4 66.364 64.55 66.63 64.265 67.084 63.78 67.347 63.498 solid black
+edge 1726 1729 4 66.549 62.528 66.692 62.528 66.857 62.528 67.011 62.528 solid black
+edge a2188 1140 4 67.81 67.234 68.067 67.44 68.457 67.753 68.71 67.955 solid black
+edge a2188 1141 4 67.963 67.137 68.16 67.19 68.395 67.253 68.587 67.304 solid black
+edge a2188 1142 4 67.963 66.918 68.16 66.866 68.395 66.803 68.587 66.752 solid black
+edge a2188 1143 4 67.81 66.821 68.067 66.616 68.457 66.303 68.71 66.1 solid black
+edge 1729 1730 4 67.951 62.528 68.095 62.528 68.26 62.528 68.413 62.528 solid black
+edge a2222 1116 4 65.16 57.44 66.213 57.711 68.987 58.425 69.99 58.683 solid black
+edge a2222 1144 4 65.199 57.333 65.377 57.333 65.58 57.333 65.752 57.333 solid black
+edge a2222 1145 4 65.073 57.159 65.306 57.035 65.618 56.868 65.846 56.746 solid black
+edge a2222 1146 4 65.073 57.507 65.306 57.632 65.618 57.799 65.846 57.921 solid black
+edge 1725 1726 4 65.146 62.528 65.29 62.528 65.454 62.528 65.608 62.528 solid black
+edge a2269 627 4 69.213 69.109 69.471 69.316 69.865 69.632 70.117 69.834 solid black
+edge a2269 628 4 69.365 69.012 69.569 69.067 69.813 69.132 70.008 69.184 solid black
+edge a2269 629 4 69.365 68.793 69.569 68.739 69.813 68.674 70.008 68.622 solid black
+edge a2269 630 4 69.213 68.696 69.471 68.49 69.865 68.174 70.117 67.972 solid black
+edge a2258 623 4 69.213 72.109 69.471 72.316 69.865 72.632 70.117 72.834 solid black
+edge a2258 624 4 69.365 72.012 69.569 72.067 69.813 72.132 70.008 72.184 solid black
+edge a2258 625 4 69.365 71.793 69.569 71.739 69.813 71.674 70.008 71.622 solid black
+edge a2258 626 4 69.213 71.696 69.471 71.49 69.865 71.174 70.117 70.972 solid black
+edge a2261 429 4 68.996 30.877 69.198 32.165 70.117 37.996 70.319 39.278 solid black
+edge a2261 595 4 69.365 30.516 69.569 30.461 69.813 30.396 70.008 30.344 solid black
+edge a2261 1147 4 69.213 30.419 69.469 30.213 69.86 29.9 70.112 29.697 solid black
+edge a2261 1148 4 69.365 30.734 69.563 30.787 69.797 30.85 69.989 30.901 solid black
+edge a2316 1056 4 68.988 60.027 69.178 58.566 70.137 51.179 70.326 49.722 solid black
+edge a2316 1116 4 69.169 60.05 69.436 59.765 69.889 59.28 70.153 58.998 solid black
+edge a2316 1149 4 69.281 60.452 69.514 60.576 69.826 60.743 70.054 60.865 solid black
+edge a2316 1150 4 69.407 60.278 69.585 60.278 69.788 60.278 69.96 60.278 solid black
+edge a2316 1151 4 69.281 60.104 69.514 59.979 69.826 59.813 70.054 59.691 solid black
+edge a2316 789 4 69.169 60.506 69.437 60.792 69.895 61.282 70.157 61.562 solid black
+edge 1730 1795 4 69.354 62.528 69.498 62.528 69.662 62.528 69.816 62.528 solid black
+stop

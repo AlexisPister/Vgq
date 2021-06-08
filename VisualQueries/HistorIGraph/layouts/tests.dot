@@ -1,0 +1,19 @@
+digraph G {
+rankdir=LR;
+newrank=true;
+splines=false;
+
+subgraph  {
+rank=same;
+a1;
+b1;
+c1;
+}
+
+subgraph  {
+rank=same;
+a2;
+b2;
+c2;
+}
+}
