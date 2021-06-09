@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="style/style.css">
+</head>
+
+<svg style="display: none">
+    <g id="stored-plus-sign">
+        <path
+          id="path1092"
+          style="stroke-linejoin:round;stroke:#ffffff;stroke-linecap:round;stroke-width:5;fill:none"
+          d="m23.78 23.78v-13.999c0-1.9588 0.536-3.55 1.607-4.7741 1.071-1.2546 2.601-1.8819 4.59-1.8819s3.519 0.6273 4.59 1.8819c1.102 1.2241 1.653 2.8153 1.653 4.7737v13.999h13.816c2.019 0 3.611 0.551 4.773 1.653 1.194 1.071 1.791 2.586 1.791 4.544 0 1.989-0.597 3.534-1.791 4.636-1.162 1.102-2.754 1.652-4.773 1.652h-13.816v13.954c0 1.989-0.551 3.596-1.653 4.82-1.101 1.224-2.632 1.836-4.59 1.836s-3.488-0.612-4.59-1.836c-1.071-1.224-1.607-2.831-1.607-4.82v-13.954h-13.816c-1.9582 0-3.5494-0.596-4.7735-1.79-1.1934-1.224-1.7901-2.723-1.7901-4.498 0-1.958 0.5814-3.473 1.7442-4.544 1.1935-1.102 2.8-1.653 4.8196-1.653h13.816z"
+      />
+        <path
+          id="path837"
+          style="fill:#000000"
+          d="m23.78 23.78v-13.999c0-1.9588 0.536-3.55 1.607-4.7741 1.071-1.2546 2.601-1.8819 4.59-1.8819s3.519 0.6273 4.59 1.8819c1.102 1.2241 1.653 2.8153 1.653 4.7737v13.999h13.816c2.019 0 3.611 0.551 4.773 1.653 1.194 1.071 1.791 2.586 1.791 4.544 0 1.989-0.597 3.534-1.791 4.636-1.162 1.102-2.754 1.652-4.773 1.652h-13.816v13.954c0 1.989-0.551 3.596-1.653 4.82-1.101 1.224-2.632 1.836-4.59 1.836s-3.488-0.612-4.59-1.836c-1.071-1.224-1.607-2.831-1.607-4.82v-13.954h-13.816c-1.9582 0-3.5494-0.596-4.7735-1.79-1.1934-1.224-1.7901-2.723-1.7901-4.498 0-1.958 0.5814-3.473 1.7442-4.544 1.1935-1.102 2.8-1.653 4.8196-1.653h13.816z"
+      />
+    </g>
+</svg>
+
+<body>
+<div class="ui left vertical very wide sidebar visible menu">
+<!--<div class="ui left vertical custom active sidebar visible menu">-->
+
+<!--        <div class="item">-->
+<!--            <h4 class="ui header">Files</h4>-->
+<!--                <div id="div-upload-file">-->
+<!--                    <input type="file" id="input-file" accept=".json">-->
+<!--                </div>-->
+<!--        </div>-->
+
+<!--        <div class="item">-->
+<!--            <div id="request-flow">-->
+<!--                <svg id="request-flow-svg" class="svg-graph" width="280" height="280"></svg>-->
+<!--            </div>-->
+<!--        </div>-->
+
+<!--    <div class="ui styled fluid accordion">-->
+<!--        <div class="title">-->
+<!--            <i class="dropdown icon"></i>-->
+<!--            Visual Graph Query-->
+<!--        </div>-->
+<!--        <div class="content">-->
+<!--            <div id="div-graph-drawing">-->
+<!--                <svg id="svg-paint" class="svg-graph" width="280" height="280"></svg>-->
+<!--            </div>-->
+
+<!--            <div id="color-palette">-->
+<!--            </div>-->
+<!--            <div id="legend-entityType"></div>-->
+<!--            <div id="div-widgets-collection">-->
+<!--            </div>-->
+<!--        </div>-->
+
+<!--        <div class="title">-->
+<!--            <i class="dropdown icon"></i>-->
+<!--            Cypher Query-->
+<!--        </div>-->
+<!--        <div class="content">-->
+<!--            <div class="ui form">-->
+<!--                <div class="field">-->
+<!--                    <label>Input</label>-->
+<!--<textarea rows="7" id="script-request-input">-->
+<!--MATCH (n:PERSON)-[r]-(m)&#13;&#10;RETURN *-->
+<!--</textarea>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--            <div id="cypher-error"></div>-->
+<!--        </div>-->
+<!--    </div>-->
+
+        <div class="item">
+            <h4 class="ui header">Main Graph</h4>
+            <button class="ui button" id="btn-groupby">
+<!--                <i class="search icon"></i>-->
+                Layout
+            </button>
+        </div>
+
+        <div class="item">
+            <h4 class="ui header">Visual Query</h4>
+            <p></p>
+
+            <div id="div-graph-drawing">
+                <svg id="svg-paint" class="svg-graph" width="250" height="280"></svg>
+            </div>
+
+            <div id="legends">
+                <div id="color-palette" class="legend"></div>
+                <div id="legend-entityType" class="legend"></div>
+            </div>
+        </div>
+
+        <div class="item">
+            <div id="div-widgets-collection">
+            </div>
+        </div>
+
+
+        <div class="item">
+            <h4 class="ui header">Scripting Query</h4>
+            <div class="ui form">
+                <div class="field">
+                    <label>Input</label>
+<textarea rows="10" id="script-request-input">
+MATCH (n)&#13;&#10;RETURN *
+</textarea>
+<!--                    MATCH (n:PERSON)-[r]-(m)&#13;&#10;RETURN *-->
+                </div>
+            </div>
+            <div id="cypher-error"></div>
+            <br>
+<!--            <button class="ui labeled icon button" id="btn-subgraph-matching">-->
+<!--                <i class="search icon"></i>-->
+<!--                Search-->
+<!--            </button>-->
+        </div>
+
+        <div class="item">
+            <h4 class="ui header">Provenance Tree</h4>
+            <div id="provenance-tree"></div>
+        </div>
+</div>
+</div>
+
+
+<!-- MAIN GRAPH-->
+<div class="pusher sticky">
+    <canvas id="canvas-main" width="1200" height="800"></canvas>
+<!--    <canvas id="canvas-dynamic-graph" width="1200" height="800"></canvas>-->
+</div>
+<div id="main-graph-tooltip">
+</div>
+
+<!--<object data="icons/plus_sign.svg" type="image/svg+xml" id="plus"></object>-->
+
+<!-- TABLES -->
+<div id="div-query-table" class="pusher">
+    <table id="query-result-datatable" class="display responsive">
+    </table>
+</div>
+
+
+<!-- Jquery-->
+<!--<script type="text/javascript" src="../node_modules/jquery/dist/jquery.min.js"></script>-->
+<!--<script type="text/javascript" src="../node_modules/jquery-ui/build/release.js"></script>-->
+
+<!-- Jquery does not work well with npm -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<!--<script type="text/javascript" src="../libs/jquery-3.5.1.min.js"></script>-->
+<!--<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>-->
+<!--<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">-->
+<link rel="stylesheet" href="../node_modules/jquery-ui-dist/jquery-ui.css">
+<link rel="stylesheet" href="../node_modules/jquery-ui-dist/jquery-ui.theme.css">
+<link rel="stylesheet" href="../node_modules/jquery-ui-dist/jquery-ui.structure.css">
+
+<!--DataTables-->
+<!--<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.23/css/jquery.dataTables.css">-->
+<!--<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.dataTables.min.css">-->
+<!--<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/1.7.0/css/buttons.dataTables.min.css">-->
+<!--<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.js"></script>-->
+<!--<script src="https://cdn.datatables.net/buttons/1.7.0/js/dataTables.buttons.min.js"></script>-->
+<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>-->
+<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>-->
+<!--<script src="https://cdn.datatables.net/buttons/1.7.0/js/buttons.html5.min.js"></script>-->
+<!--<script src="https://cdn.datatables.net/buttons/1.7.0/js/buttons.print.min.js"></script>-->
+
+
+<!--Semantic UI-->
+<script type="text/javascript" src="../semantic/dist/semantic.min.js"></script>
+<link rel="stylesheet" href="../semantic/dist/semantic.min.css"></link>
+<!--<script>-->
+<!--    $('.ui.accordion')-->
+<!--        .accordion({-->
+<!--            exclusive: false-->
+<!--        });-->
+
+<!--    $('.ui.accordion > .title').each(function(i){-->
+<!--        $(this).parent().accordion('open',i);-->
+<!--    });-->
+<!--</script>-->
+
+<!--CodeMirror-->
+<link rel="stylesheet" href="../libs/codemirror-5.60.0/lib/codemirror.css">
+
+
+<!--Visual Queries-->
+<script type="module" src="js/main.js"></script>
+
+</body>
+</html>
